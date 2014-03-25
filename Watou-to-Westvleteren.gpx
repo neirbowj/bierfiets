@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="fietsnet GPX generator" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <author>
+      <name>fietsnet</name>
+      <link href="http://www.fietsnet.be" />
+    </author>
+  </metadata>
+  <wpt lat="50.8588561" lon="2.6206888">
+    <name>77</name>
+    <sym>Flag, Green</sym>
+    <type>fietsknooppunt</type>
+  </wpt>
+  <wpt lat="50.8617364" lon="2.6207968">
+    <name>76</name>
+    <sym>Circle, Red</sym>
+    <type>fietsknooppunt</type>
+  </wpt>
+  <wpt lat="50.8684740" lon="2.6522577">
+    <name>78</name>
+    <sym>Circle, Red</sym>
+    <type>fietsknooppunt</type>
+  </wpt>
+  <wpt lat="50.8755775" lon="2.6769425">
+    <name>79</name>
+    <sym>Circle, Red</sym>
+    <type>fietsknooppunt</type>
+  </wpt>
+  <wpt lat="50.8873365" lon="2.7004986">
+    <name>66</name>
+    <sym>Circle, Red</sym>
+    <type>fietsknooppunt</type>
+  </wpt>
+  <wpt lat="50.8916949" lon="2.7092197">
+    <name>67</name>
+    <sym>Circle, Red</sym>
+    <type>fietsknooppunt</type>
+  </wpt>
+  <wpt lat="50.8931931" lon="2.7113986">
+    <name>68</name>
+    <sym>Circle, Red</sym>
+    <type>fietsknooppunt</type>
+  </wpt>
+  <wpt lat="50.9151200" lon="2.7444171">
+    <name>70</name>
+    <sym>Circle, Red</sym>
+    <type>fietsknooppunt</type>
+  </wpt>
+  <trk>
+    <name>Watou-to-Westvleteren</name>
+    <type>fietsknooppuntentraject</type>
+    <trkseg>
+      <trkpt lat="50.8588561" lon="2.6206888" />
+      <trkpt lat="50.8612194" lon="2.6205718" />
+      <trkpt lat="50.8617364" lon="2.6207968" />
+      <trkpt lat="50.8623392" lon="2.6247177" />
+      <trkpt lat="50.8626290" lon="2.6252397" />
+      <trkpt lat="50.8632538" lon="2.6273187" />
+      <trkpt lat="50.8642763" lon="2.6290017" />
+      <trkpt lat="50.8650148" lon="2.6307477" />
+      <trkpt lat="50.8655430" lon="2.6337357" />
+      <trkpt lat="50.8660997" lon="2.6349417" />
+      <trkpt lat="50.8673153" lon="2.6389197" />
+      <trkpt lat="50.8690704" lon="2.6474247" />
+      <trkpt lat="50.8678662" lon="2.6486397" />
+      <trkpt lat="50.8680309" lon="2.6489457" />
+      <trkpt lat="50.8680537" lon="2.6510967" />
+      <trkpt lat="50.8684740" lon="2.6522577" />
+      <trkpt lat="50.8687167" lon="2.6526605" />
+      <trkpt lat="50.8693358" lon="2.6561615" />
+      <trkpt lat="50.8694096" lon="2.6628305" />
+      <trkpt lat="50.8696425" lon="2.6639825" />
+      <trkpt lat="50.8699549" lon="2.6650355" />
+      <trkpt lat="50.8706648" lon="2.6660795" />
+      <trkpt lat="50.8715963" lon="2.6690675" />
+      <trkpt lat="50.8755775" lon="2.6769425" />
+      <trkpt lat="50.8756107" lon="2.6767836" />
+      <trkpt lat="50.8774109" lon="2.6793936" />
+      <trkpt lat="50.8777744" lon="2.6832906" />
+      <trkpt lat="50.8790975" lon="2.6848026" />
+      <trkpt lat="50.8807670" lon="2.6883846" />
+      <trkpt lat="50.8821468" lon="2.6903196" />
+      <trkpt lat="50.8831348" lon="2.6908686" />
+      <trkpt lat="50.8836402" lon="2.6924436" />
+      <trkpt lat="50.8844408" lon="2.6934786" />
+      <trkpt lat="50.8850824" lon="2.6971416" />
+      <trkpt lat="50.8863202" lon="2.7007776" />
+      <trkpt lat="50.8873365" lon="2.7004986" />
+      <trkpt lat="50.8887711" lon="2.7034507" />
+      <trkpt lat="50.8912861" lon="2.7077797" />
+      <trkpt lat="50.8916949" lon="2.7092197" />
+      <trkpt lat="50.8929206" lon="2.7105346" />
+      <trkpt lat="50.8931931" lon="2.7113986" />
+      <trkpt lat="50.8931101" lon="2.7128991" />
+      <trkpt lat="50.8924970" lon="2.7168051" />
+      <trkpt lat="50.8956646" lon="2.7214311" />
+      <trkpt lat="50.8968680" lon="2.7237351" />
+      <trkpt lat="50.8984745" lon="2.7262371" />
+      <trkpt lat="50.9017495" lon="2.7303501" />
+      <trkpt lat="50.9039234" lon="2.7273981" />
+      <trkpt lat="50.9045760" lon="2.7271101" />
+      <trkpt lat="50.9070448" lon="2.7303501" />
+      <trkpt lat="50.9076464" lon="2.7309081" />
+      <trkpt lat="50.9090822" lon="2.7332031" />
+      <trkpt lat="50.9108414" lon="2.7355611" />
+      <trkpt lat="50.9111592" lon="2.7368841" />
+      <trkpt lat="50.9116699" lon="2.7374421" />
+      <trkpt lat="50.9124871" lon="2.7389001" />
+      <trkpt lat="50.9128616" lon="2.7384681" />
+      <trkpt lat="50.9139681" lon="2.7425091" />
+      <trkpt lat="50.9151200" lon="2.7444171" />
+    </trkseg>
+  </trk>
+</gpx>

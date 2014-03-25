@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="fietsnet GPX generator" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <author>
+      <name>fietsnet</name>
+      <link href="http://www.fietsnet.be" />
+    </author>
+  </metadata>
+  <wpt lat="50.8549231" lon="2.7249346">
+    <name>92</name>
+    <sym>Flag, Green</sym>
+    <type>fietsknooppunt</type>
+  </wpt>
+  <wpt lat="50.8405238" lon="2.6712316">
+    <name>86</name>
+    <sym>Circle, Red</sym>
+    <type>fietsknooppunt</type>
+  </wpt>
+  <wpt lat="50.8374664" lon="2.6668836">
+    <name>85</name>
+    <sym>Circle, Red</sym>
+    <type>fietsknooppunt</type>
+  </wpt>
+  <wpt lat="50.8370827" lon="2.6655864">
+    <name>84</name>
+    <sym>Circle, Red</sym>
+    <type>fietsknooppunt</type>
+  </wpt>
+  <wpt lat="50.8357897" lon="2.6603582">
+    <name>83</name>
+    <sym>Circle, Red</sym>
+    <type>fietsknooppunt</type>
+  </wpt>
+  <wpt lat="50.8222714" lon="2.6295304">
+    <name>77</name>
+    <sym>Circle, Red</sym>
+    <type>fietsknooppunt</type>
+  </wpt>
+  <trk>
+    <name>Poperinge to Sint Bernardus</name>
+    <type>fietsknooppuntentraject</type>
+    <trkseg>
+      <trkpt lat="50.8549231" lon="2.7249346" />
+      <trkpt lat="50.8554572" lon="2.7227026" />
+      <trkpt lat="50.8546731" lon="2.7224146" />
+      <trkpt lat="50.8547356" lon="2.7210196" />
+      <trkpt lat="50.8534572" lon="2.7177796" />
+      <trkpt lat="50.8510140" lon="2.7074116" />
+      <trkpt lat="50.8509117" lon="2.7065476" />
+      <trkpt lat="50.8512129" lon="2.7030106" />
+      <trkpt lat="50.8510936" lon="2.6991766" />
+      <trkpt lat="50.8508549" lon="2.6950276" />
+      <trkpt lat="50.8504401" lon="2.6919946" />
+      <trkpt lat="50.8502583" lon="2.6916076" />
+      <trkpt lat="50.8500537" lon="2.6915986" />
+      <trkpt lat="50.8497185" lon="2.6921026" />
+      <trkpt lat="50.8494571" lon="2.6920036" />
+      <trkpt lat="50.8484911" lon="2.6903296" />
+      <trkpt lat="50.8462920" lon="2.6937226" />
+      <trkpt lat="50.8459681" lon="2.6935156" />
+      <trkpt lat="50.8453373" lon="2.6918956" />
+      <trkpt lat="50.8440700" lon="2.6926066" />
+      <trkpt lat="50.8439223" lon="2.6924536" />
+      <trkpt lat="50.8433142" lon="2.6894116" />
+      <trkpt lat="50.8412910" lon="2.6822926" />
+      <trkpt lat="50.8407625" lon="2.6796556" />
+      <trkpt lat="50.8401885" lon="2.6778016" />
+      <trkpt lat="50.8399895" lon="2.6763526" />
+      <trkpt lat="50.8398190" lon="2.6759026" />
+      <trkpt lat="50.8390290" lon="2.6752636" />
+      <trkpt lat="50.8388813" lon="2.6744536" />
+      <trkpt lat="50.8394098" lon="2.6736886" />
+      <trkpt lat="50.8405238" lon="2.6712316" />
+      <trkpt lat="50.8378358" lon="2.6678736" />
+      <trkpt lat="50.8374664" lon="2.6668836" />
+      <trkpt lat="50.8370827" lon="2.6655864" />
+      <trkpt lat="50.8358977" lon="2.6614742" />
+      <trkpt lat="50.8357897" lon="2.6603582" />
+      <trkpt lat="50.8343005" lon="2.6572594" />
+      <trkpt lat="50.8334081" lon="2.6559364" />
+      <trkpt lat="50.8326748" lon="2.6542354" />
+      <trkpt lat="50.8321803" lon="2.6525344" />
+      <trkpt lat="50.8313219" lon="2.6508874" />
+      <trkpt lat="50.8312537" lon="2.6501674" />
+      <trkpt lat="50.8315323" lon="2.6483674" />
+      <trkpt lat="50.8289571" lon="2.6431834" />
+      <trkpt lat="50.8284398" lon="2.6403484" />
+      <trkpt lat="50.8282920" lon="2.6401864" />
+      <trkpt lat="50.8273995" lon="2.6404834" />
+      <trkpt lat="50.8273654" lon="2.6400064" />
+      <trkpt lat="50.8241078" lon="2.6343184" />
+      <trkpt lat="50.8230219" lon="2.6308804" />
+      <trkpt lat="50.8222714" lon="2.6295304" />
+    </trkseg>
+  </trk>
+</gpx>
