@@ -9,6 +9,7 @@ from lxml import etree
 from lxml.builder import ElementMaker
 
 import sys
+from copy import deepcopy
 
 def tagsfromprops(props, E):
     """
@@ -41,6 +42,7 @@ if geojson_data.type != 'FeatureCollection':
     raise GeoJSONTypeNotImplementedError(geojson_data.type)
 
 points = [] # Point
+waypoints = [] # also Point
 routes = [] # LineString or member of MultiLineString
 tracks = [] # MultiPoint
 other = []
@@ -67,10 +69,17 @@ for feature in geojson_data.features:
     if geom.type == 'Point':
         lon = geom.coordinates[0]
         lat = geom.coordinates[1]
-        tags = tagsfromprops(props, E)
+        rttags = tagsfromprops(props, E)
+        wptags = deepcopy(rttags)
         points.append(
             E.rtept(
-                *tags,
+                *rttags,
+                lat=str(lat), lon=str(lon)
+            )
+        )
+        waypoints.append(
+            E.wpt(
+                *wptags,
                 lat=str(lat), lon=str(lon)
             )
         )
@@ -130,7 +139,7 @@ if len(points) > 0:
         )
     )
 
-gpx_members = other + tracks + routes
+gpx_members = other + tracks + routes + waypoints
 
 gpx_attrib = {
     'version': '1.1',
