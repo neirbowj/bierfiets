@@ -43,12 +43,26 @@ if geojson_data.type != 'FeatureCollection':
 points = [] # Point
 routes = [] # LineString or member of MultiLineString
 tracks = [] # MultiPoint
+other = []
 for feature in geojson_data.features:
     if feature.type != 'Feature':
         raise GeoJSONTypeNotImplementedError(feature.type)
 
     props = feature.properties
     geom = feature.geometry
+
+    if geom is None:
+        if feature.id == 'metadata':
+            # TODO: convert a metadata feature
+            md = E.metadata(
+                E.author(
+                    E.link("https://github.com/neirbowj/bierfiets",
+                            text="neirbowj/bierfiets"),
+                    E.name("John W. O'Brien")
+                ),
+            )
+            other.append(md)
+        continue
 
     if geom.type == 'Point':
         lon = geom.coordinates[0]
@@ -102,7 +116,7 @@ if len(points) > 0:
         )
     )
 
-gpx_members = tracks + routes
+gpx_members = other + tracks + routes
 
 gpx_attrib = {
     'version': '1.1',
@@ -110,12 +124,6 @@ gpx_attrib = {
 }
 
 gpx = E.gpx(
-    E.metadata(
-        E.author(
-            E.name('Melissa Muth'),
-            E.link(E.text('mrmuth/bierfiets'), href='https://github.com/mrmuth/bierfiets')
-        )
-    ),
     *gpx_members,
     **gpx_attrib
 )
