@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<gpx xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="https://github.com/neirbowj/bierfiets">
+  <metadata>
+    <author>
+      <link text="neirbowj/bierfiets">https://github.com/neirbowj/bierfiets</link>
+      <name>John W. O'Brien</name>
+    </author>
+  </metadata>
+  <rte>
+    <name>commute2.geojson</name>
+    <rtept lon="-75.18291950225829" lat="39.95580659996906">
+      <name>Start here</name>
+      <sym>Flag, Green</sym>
+    </rtept>
+    <rtept lon="-75.183145" lat="39.95489">
+      <name>NE corner of 30th and Market</name>
+      <sym>Flag, Blue</sym>
+    </rtept>
+    <rtept lon="-75.1833164691925" lat="39.95473">
+      <name>SE corner of 30th and Market</name>
+      <sym>Dot, Blue</sym>
+    </rtept>
+    <rtept lon="-75.18359541893005" lat="39.95339690146149">
+      <name>NE corner of 30th and Chestnut</name>
+      <sym>Dot, Blue</sym>
+    </rtept>
+    <rtept lon="-75.18514037132263" lat="39.95357783740334">
+      <name>Crosswalk at 31st and Chestnut</name>
+      <sym>Flag, Red</sym>
+    </rtept>
+    <rtept lon="-75.18548369407654" lat="39.95205">
+      <name>Up the stairs onto Walnut</name>
+      <sym>Pin, Green</sym>
+    </rtept>
+    <rtept lon="-75.19218921661377" lat="39.95291166179976">
+      <name>End here</name>
+      <sym>Building</sym>
+    </rtept>
+  </rte>
+</gpx>
+

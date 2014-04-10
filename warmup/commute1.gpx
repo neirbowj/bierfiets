@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<gpx xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" creator="https://github.com/neirbowj/bierfiets" version="1.1">
+  <trk>
+    <trkseg>
+      <trkpt lon="-75.18293559551239" lat="39.95586005648184"/>
+      <trkpt lon="-75.18314480781555" lat="39.955880616667926"/>
+      <trkpt lon="-75.18324136734007" lat="39.956012201712596"/>
+      <trkpt lon="-75.18377780914307" lat="39.956073882115135"/>
+      <trkpt lon="-75.18456637859344" lat="39.9561766826624"/>
+      <trkpt lon="-75.18497943878174" lat="39.95620957880488"/>
+      <trkpt lon="-75.18603086471558" lat="39.95634116321662"/>
+      <trkpt lon="-75.18653512001038" lat="39.956398731317115"/>
+      <trkpt lon="-75.18674433231354" lat="39.95638639529968"/>
+      <trkpt lon="-75.18692135810852" lat="39.956324715178994"/>
+      <trkpt lon="-75.18702328205109" lat="39.95621780283804"/>
+      <trkpt lon="-75.1870983839035" lat="39.95610266628393"/>
+      <trkpt lon="-75.18721640110016" lat="39.95553931677836"/>
+      <trkpt lon="-75.18722712993622" lat="39.95538717049558"/>
+      <trkpt lon="-75.18743634223938" lat="39.95540773082382"/>
+      <trkpt lon="-75.1876562833786" lat="39.95543240320961"/>
+      <trkpt lon="-75.18792450428009" lat="39.95546529971009"/>
+      <trkpt lon="-75.18819808959961" lat="39.955498196194775"/>
+      <trkpt lon="-75.18831610679626" lat="39.95551464443117"/>
+      <trkpt lon="-75.18833220005035" lat="39.95538305842918"/>
+      <trkpt lon="-75.1883214712143" lat="39.95528025668895"/>
+      <trkpt lon="-75.1884663105011" lat="39.95457708864258"/>
+      <trkpt lon="-75.18854141235352" lat="39.954494846293585"/>
+      <trkpt lon="-75.18868088722228" lat="39.95438793109204"/>
+      <trkpt lon="-75.1890242099762" lat="39.954174100187494"/>
+      <trkpt lon="-75.18918514251709" lat="39.95407952092036"/>
+      <trkpt lon="-75.18963038921356" lat="39.954120642356926"/>
+      <trkpt lon="-75.18965721130371" lat="39.954005502272224"/>
+      <trkpt lon="-75.18970549106598" lat="39.9537587728665"/>
+      <trkpt lon="-75.1897644996643" lat="39.95349970603261"/>
+      <trkpt lon="-75.18988788127899" lat="39.95291988622947"/>
+      <trkpt lon="-75.18994152545929" lat="39.952615581670976"/>
+      <trkpt lon="-75.19010782241821" lat="39.95262791836861"/>
+      <trkpt lon="-75.1904296875" lat="39.95267726513682"/>
+      <trkpt lon="-75.19125580787659" lat="39.95278007078964"/>
+      <trkpt lon="-75.19189417362213" lat="39.95285409076399"/>
+      <trkpt lon="-75.19200682640076" lat="39.95286642741858"/>
+      <trkpt lon="-75.19217848777771" lat="39.95289932515332"/>
+    </trkseg>
+    <name>Morning Commute Test Track</name>
+  </trk>
+  <rte>
+    <name>commute1.geojson</name>
+    <rtept lon="-75.18293559551239" lat="39.95586005648184">
+      <name>Start here</name>
+    </rtept>
+    <rtept lon="-75.18315553665161" lat="39.95588472870443">
+      <name>30th St median</name>
+    </rtept>
+    <rtept lon="-75.18469512462616" lat="39.9561766826624">
+      <name>Under the train bridge</name>
+    </rtept>
+    <rtept lon="-75.18722712993622" lat="39.95539128256173">
+      <name>Corner of JFK and Market</name>
+      <sym>Flag, Blue</sym>
+    </rtept>
+    <rtept lon="-75.1883214712143" lat="39.95551464443117">
+      <name>NW corner of 32nd and Market</name>
+    </rtept>
+    <rtept lon="-75.18856823444366" lat="39.95446606144807">
+      <name>Drexel Quad</name>
+      <sym>Pin, Blue</sym>
+    </rtept>
+    <rtept lon="-75.1896196603775" lat="39.954124754499226">
+      <name>NE corner of 33rd and Chestnut</name>
+    </rtept>
+    <rtept lon="-75.18994152545929" lat="39.95260324497115">
+      <name>NE corner of 33rd and Walnut</name>
+    </rtept>
+    <rtept lon="-75.1923018693924" lat="39.95291988622947">
+      <name>3401 Market St</name>
+    </rtept>
+  </rte>
+</gpx>
+

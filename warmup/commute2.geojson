@@ -1,0 +1,14 @@
+{
+    "type":"FeatureCollection","features":[
+    {
+        "type": "Feature",
+        "geometry": null,
+        "id": "metadata",
+        "properties": {
+            "author": {
+                "link": "http://www.fietsnet.be",
+                "name": "fietsnet"
+            }
+        }
+    },
+{"type":"Feature","properties":{"name":"Start here","sym":"Flag, Green"},"geometry":{"type":"Point","coordinates":[-75.18291950225829,39.95580659996906]}},{"type":"Feature","properties":{"name":"NE corner of 30th and Market","sym":"Flag, Blue"},"geometry":{"type":"Point","coordinates":[-75.183145,39.95489]}},{"type":"Feature","properties":{"name":"SE corner of 30th and Market","sym":"Dot, Blue"},"geometry":{"type":"Point","coordinates":[-75.1833164691925,39.95473]}},{"type":"Feature","properties":{"name":"NE corner of 30th and Chestnut","sym":"Dot, Blue"},"geometry":{"type":"Point","coordinates":[-75.18359541893005,39.95339690146149]}},{"type":"Feature","properties":{"name":"Crosswalk at 31st and Chestnut","sym":"Flag, Red"},"geometry":{"type":"Point","coordinates":[-75.18514037132263,39.95357783740334]}},{"type":"Feature","properties":{"name":"Up the stairs onto Walnut","sym":"Pin, Green"},"geometry":{"type":"Point","coordinates":[-75.18548369407654,39.95205]}},{"type":"Feature","properties":{"name":"End here","sym":"Building"},"geometry":{"type":"Point","coordinates":[-75.19218921661377,39.95291166179976]}}]}
