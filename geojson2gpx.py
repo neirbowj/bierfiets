@@ -98,7 +98,21 @@ for feature in geojson_data.features:
         continue
 
     if geom.type == 'MultiLineString':
-        # TODO: Handle me
+        trkparts = tagsfromprops(props, E)
+        for linestring in geom.coordinates:
+            trkpts = []
+            for position in linestring:
+                lon = position[0]
+                lat = position[1]
+                trkpts.append(
+                    E.trkpt(
+                        lat=str(lat), lon=str(lon)
+                    )
+                )
+            trkparts.append(E.trkseg(*trkpts))
+        tracks.append(
+            E.trk(*trkparts)
+        )
         continue
 
     if geom.type == 'MultiPoint':
