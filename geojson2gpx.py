@@ -96,6 +96,8 @@ for feature in geojson_data.features:
                 )
             )
         tags = tagsfromprops(props, E)
+        if 'name' not in props:
+            tags.append(E.name(sys.argv[1]))
         tracks.append(
             E.trk(
                 E.trkseg(
