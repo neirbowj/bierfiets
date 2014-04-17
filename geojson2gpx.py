@@ -112,6 +112,8 @@ for feature in geojson_data.features:
 
     if geom.type == 'MultiLineString':
         trkparts = tagsfromprops(props, E)
+        if 'name' not in props:
+            trkparts.append(E.name(trip_name))
         for linestring in geom.coordinates:
             trkpts = []
             for position in linestring:
