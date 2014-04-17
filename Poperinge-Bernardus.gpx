@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.topografix.com/GPX/1/1" creator="https://github.com/neirbowj/bierfiets" version="1.1">
+  <trk>
+    <name>Poperinge-Bernardus</name>
+    <type>fietsknooppuntentraject</type>
+    <trkseg>
+      <trkpt lon="2.726932168006897" lat="50.85516941315706"/>
+      <trkpt lon="2.7264976501464844" lat="50.85475287610578"/>
+      <trkpt lon="2.725633978843689" lat="50.85477996805961"/>
+      <trkpt lon="2.7251243591308594" lat="50.85416362221597"/>
+      <trkpt lon="2.7224146" lat="50.8546731"/>
+      <trkpt lon="2.7210196" lat="50.8547356"/>
+      <trkpt lon="2.7177796" lat="50.8534572"/>
+      <trkpt lon="2.7074116" lat="50.851014"/>
+      <trkpt lon="2.7065476" lat="50.8509117"/>
+      <trkpt lon="2.7030106" lat="50.8512129"/>
+      <trkpt lon="2.6991766" lat="50.8510936"/>
+      <trkpt lon="2.6950276" lat="50.8508549"/>
+      <trkpt lon="2.6919946" lat="50.8504401"/>
+      <trkpt lon="2.6916076" lat="50.8502583"/>
+      <trkpt lon="2.6915986" lat="50.8500537"/>
+      <trkpt lon="2.6921026" lat="50.8497185"/>
+      <trkpt lon="2.6920036" lat="50.8494571"/>
+      <trkpt lon="2.6903296" lat="50.8484911"/>
+      <trkpt lon="2.6937226" lat="50.846292"/>
+      <trkpt lon="2.6935156" lat="50.8459681"/>
+      <trkpt lon="2.6918956" lat="50.8453373"/>
+      <trkpt lon="2.6926066" lat="50.84407"/>
+      <trkpt lon="2.6924536" lat="50.8439223"/>
+      <trkpt lon="2.6894116" lat="50.8433142"/>
+      <trkpt lon="2.6822926" lat="50.841291"/>
+      <trkpt lon="2.6796556" lat="50.8407625"/>
+      <trkpt lon="2.6778016" lat="50.8401885"/>
+      <trkpt lon="2.6763526" lat="50.8399895"/>
+      <trkpt lon="2.6759026" lat="50.839819"/>
+      <trkpt lon="2.6752636" lat="50.839029"/>
+      <trkpt lon="2.6744536" lat="50.8388813"/>
+      <trkpt lon="2.6736886" lat="50.8394098"/>
+      <trkpt lon="2.6712316" lat="50.8405238"/>
+      <trkpt lon="2.6678736" lat="50.8378358"/>
+      <trkpt lon="2.6668836" lat="50.8374664"/>
+      <trkpt lon="2.6655864" lat="50.8370827"/>
+      <trkpt lon="2.6614742" lat="50.8358977"/>
+      <trkpt lon="2.6603582" lat="50.8357897"/>
+      <trkpt lon="2.6509666" lat="50.8312853"/>
+      <trkpt lon="2.6452804" lat="50.8382239"/>
+      <trkpt lon="2.6382208" lat="50.8415301"/>
+    </trkseg>
+  </trk>
+  <rte>
+    <name>Poperinge-Bernardus.json</name>
+    <rtept lon="2.726932168006897" lat="50.85516941315706"/>
+    <rtept lon="2.7264976501464844" lat="50.85475287610578"/>
+    <rtept lon="2.725633978843689" lat="50.85477996805961"/>
+    <rtept lon="2.7251243591308594" lat="50.85416362221597"/>
+    <rtept lon="2.6712316" lat="50.8405238">
+      <type>fietsknooppunt</type>
+      <name>86</name>
+      <sym>Circle, Red</sym>
+    </rtept>
+    <rtept lon="2.6668836" lat="50.8374664">
+      <type>fietsknooppunt</type>
+      <name>85</name>
+      <sym>Circle, Red</sym>
+    </rtept>
+    <rtept lon="2.6655864" lat="50.8370827">
+      <type>fietsknooppunt</type>
+      <name>84</name>
+      <sym>Circle, Red</sym>
+    </rtept>
+    <rtept lon="2.6603582" lat="50.8357897">
+      <type>fietsknooppunt</type>
+      <name>83</name>
+      <sym>Circle, Red</sym>
+    </rtept>
+    <rtept lon="2.6509666442871094" lat="50.83128533566249"/>
+    <rtept lon="2.6452803611755367" lat="50.838223851356844"/>
+    <rtept lon="2.63822078704834" lat="50.8415301248178">
+      <Name>Het Brouwershuis</Name>
+    </rtept>
+  </rte>
+  <wpt lon="2.726932168006897" lat="50.85516941315706"/>
+  <wpt lon="2.7264976501464844" lat="50.85475287610578"/>
+  <wpt lon="2.725633978843689" lat="50.85477996805961"/>
+  <wpt lon="2.7251243591308594" lat="50.85416362221597"/>
+  <wpt lon="2.6712316" lat="50.8405238">
+    <type>fietsknooppunt</type>
+    <name>86</name>
+    <sym>Circle, Red</sym>
+  </wpt>
+  <wpt lon="2.6668836" lat="50.8374664">
+    <type>fietsknooppunt</type>
+    <name>85</name>
+    <sym>Circle, Red</sym>
+  </wpt>
+  <wpt lon="2.6655864" lat="50.8370827">
+    <type>fietsknooppunt</type>
+    <name>84</name>
+    <sym>Circle, Red</sym>
+  </wpt>
+  <wpt lon="2.6603582" lat="50.8357897">
+    <type>fietsknooppunt</type>
+    <name>83</name>
+    <sym>Circle, Red</sym>
+  </wpt>
+  <wpt lon="2.6509666442871094" lat="50.83128533566249"/>
+  <wpt lon="2.6452803611755367" lat="50.838223851356844"/>
+  <wpt lon="2.63822078704834" lat="50.8415301248178">
+    <Name>Het Brouwershuis</Name>
+  </wpt>
+</gpx>
+

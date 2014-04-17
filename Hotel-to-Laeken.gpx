@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<gpx xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="https://github.com/neirbowj/bierfiets">
+  <rte>
+    <name>Hotel-to-Laeken.json</name>
+    <rtept lon="4.366335868835449" lat="50.854854470851556">
+      <Name>Hotel Bloom</Name>
+    </rtept>
+    <rtept lon="4.3665611743927" lat="50.85470546514866">
+      <Name>Rue Royale &amp; Chaussee de Haecht</Name>
+    </rtept>
+    <rtept lon="4.368487000465392" lat="50.85841353375924">
+      <Name>X Rue de Beughem</Name>
+    </rtept>
+    <rtept lon="4.366684556007385" lat="50.86432890129096">
+      <Name>Rue des Palais &amp; Av de la Reine</Name>
+    </rtept>
+    <rtept lon="4.3619585037231445" lat="50.871821074240394">
+      <Name>Rue des Palais</Name>
+    </rtept>
+    <rtept lon="4.360445737838745" lat="50.8723424007038">
+      <Name>Palais &amp; Reine</Name>
+    </rtept>
+    <rtept lon="4.359587430953979" lat="50.87339180642133">
+      <Name>Claessens &amp; Reine</Name>
+    </rtept>
+    <rtept lon="4.360129237174988" lat="50.87364230622835">
+      <Name>Claessens &amp; Palais Outre-Ponts</Name>
+    </rtept>
+    <rtept lon="4.360869526863098" lat="50.87650264775004">
+      <Name>Palais Outre-Ponts</Name>
+    </rtept>
+    <rtept lon="4.356942772865295" lat="50.87819169006211">
+      <Name>Palais Outre-Ponts toward N277</Name>
+    </rtept>
+    <rtept lon="4.356277585029602" lat="50.87800891088216">
+      <Name>N277</Name>
+    </rtept>
+    <rtept lon="4.3560951948165885" lat="50.88858184597686">
+      <Name>Palais de Laeken</Name>
+    </rtept>
+  </rte>
+  <wpt lon="4.366335868835449" lat="50.854854470851556">
+    <Name>Hotel Bloom</Name>
+  </wpt>
+  <wpt lon="4.3665611743927" lat="50.85470546514866">
+    <Name>Rue Royale &amp; Chaussee de Haecht</Name>
+  </wpt>
+  <wpt lon="4.368487000465392" lat="50.85841353375924">
+    <Name>X Rue de Beughem</Name>
+  </wpt>
+  <wpt lon="4.366684556007385" lat="50.86432890129096">
+    <Name>Rue des Palais &amp; Av de la Reine</Name>
+  </wpt>
+  <wpt lon="4.3619585037231445" lat="50.871821074240394">
+    <Name>Rue des Palais</Name>
+  </wpt>
+  <wpt lon="4.360445737838745" lat="50.8723424007038">
+    <Name>Palais &amp; Reine</Name>
+  </wpt>
+  <wpt lon="4.359587430953979" lat="50.87339180642133">
+    <Name>Claessens &amp; Reine</Name>
+  </wpt>
+  <wpt lon="4.360129237174988" lat="50.87364230622835">
+    <Name>Claessens &amp; Palais Outre-Ponts</Name>
+  </wpt>
+  <wpt lon="4.360869526863098" lat="50.87650264775004">
+    <Name>Palais Outre-Ponts</Name>
+  </wpt>
+  <wpt lon="4.356942772865295" lat="50.87819169006211">
+    <Name>Palais Outre-Ponts toward N277</Name>
+  </wpt>
+  <wpt lon="4.356277585029602" lat="50.87800891088216">
+    <Name>N277</Name>
+  </wpt>
+  <wpt lon="4.3560951948165885" lat="50.88858184597686">
+    <Name>Palais de Laeken</Name>
+  </wpt>
+</gpx>
+

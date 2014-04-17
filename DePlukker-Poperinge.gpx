@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<gpx xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="https://github.com/neirbowj/bierfiets">
+  <trk>
+    <trkseg>
+      <trkpt lon="2.7599072456359863" lat="50.868486478093025"/>
+      <trkpt lon="2.7588772773742676" lat="50.86682078337104"/>
+      <trkpt lon="2.7582550048828125" lat="50.86637387953889"/>
+      <trkpt lon="2.7558517456054688" lat="50.865087314284736"/>
+      <trkpt lon="2.7522683143615723" lat="50.8630964538626"/>
+      <trkpt lon="2.750551700592041" lat="50.861985868934234"/>
+      <trkpt lon="2.742784023284912" lat="50.85812570337197"/>
+      <trkpt lon="2.7420973777770996" lat="50.85766517105702"/>
+      <trkpt lon="2.7414965629577632" lat="50.85747553878188"/>
+      <trkpt lon="2.740359306335449" lat="50.85692018268297"/>
+      <trkpt lon="2.7346944808959956" lat="50.85580945064428"/>
+      <trkpt lon="2.732419967651367" lat="50.85561303795804"/>
+      <trkpt lon="2.728954553604126" lat="50.855707857978814"/>
+      <trkpt lon="2.7271628379821777" lat="50.85551821774447"/>
+      <trkpt lon="2.7270984649658203" lat="50.855755267916926"/>
+    </trkseg>
+    <name>DePlukker-Poperinge.json</name>
+  </trk>
+  <rte>
+    <name>DePlukker-Poperinge.json</name>
+    <rtept lon="2.7270877361297607" lat="50.85578574570879">
+      <name>Hotel Amfora</name>
+      <desc>Grote Markt 36</desc>
+    </rtept>
+    <rtept lon="2.759842872619629" lat="50.868459394102004">
+      <name>De Plukker</name>
+      <desc>Elverdingseweg 16, Poperinge</desc>
+    </rtept>
+  </rte>
+  <wpt lon="2.7270877361297607" lat="50.85578574570879">
+    <name>Hotel Amfora</name>
+    <desc>Grote Markt 36</desc>
+  </wpt>
+  <wpt lon="2.759842872619629" lat="50.868459394102004">
+    <name>De Plukker</name>
+    <desc>Elverdingseweg 16, Poperinge</desc>
+  </wpt>
+</gpx>
+

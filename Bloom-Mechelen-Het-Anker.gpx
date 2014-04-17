@@ -1,0 +1,318 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<gpx xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="https://github.com/neirbowj/bierfiets">
+  <trk>
+    <type>fietsknooppuntentraject</type>
+    <name>Bloom-Mechelen-Het-Anker</name>
+    <trkseg>
+      <trkpt lon="4.3663036823272705" lat="50.85477319507262"/>
+      <trkpt lon="4.366893768310547" lat="50.854637735126346"/>
+      <trkpt lon="4.368256330490112" lat="50.85564690227329"/>
+      <trkpt lon="4.370756149291992" lat="50.8556739937078"/>
+      <trkpt lon="4.372901916503906" lat="50.8568930919724"/>
+      <trkpt lon="4.374243021011352" lat="50.85852527919554"/>
+      <trkpt lon="4.375594854354858" lat="50.8598391145454"/>
+      <trkpt lon="4.376571178436279" lat="50.86346212847672"/>
+      <trkpt lon="4.377075433731079" lat="50.86738279271473"/>
+      <trkpt lon="4.3773651123046875" lat="50.86746404651708"/>
+      <trkpt lon="4.379510879516602" lat="50.86778906031019"/>
+      <trkpt lon="4.3827831745147705" lat="50.868506791075944"/>
+      <trkpt lon="4.386323690414429" lat="50.869183885441835"/>
+      <trkpt lon="4.386581182479858" lat="50.869150030957115"/>
+      <trkpt lon="4.38678503036499" lat="50.8693057613832"/>
+      <trkpt lon="4.398543834686279" lat="50.87265045450957"/>
+      <trkpt lon="4.401000738143921" lat="50.87393004083174"/>
+      <trkpt lon="4.404691457748413" lat="50.875331452209636"/>
+      <trkpt lon="4.406708478927612" lat="50.8764146398594"/>
+      <trkpt lon="4.409916400909424" lat="50.877944599518706"/>
+      <trkpt lon="4.411010742187499" lat="50.878432009744785"/>
+      <trkpt lon="4.41226601600647" lat="50.87925111822504"/>
+      <trkpt lon="4.421417713165283" lat="50.88440237127596"/>
+      <trkpt lon="4.422469139099121" lat="50.88541766276801"/>
+      <trkpt lon="4.423542022705078" lat="50.88723836342482"/>
+      <trkpt lon="4.424647092819214" lat="50.88852431729138"/>
+      <trkpt lon="4.427275657653809" lat="50.891177330989905"/>
+      <trkpt lon="4.433283805847168" lat="50.89669944628354"/>
+      <trkpt lon="4.434850215911865" lat="50.89749793327926"/>
+      <trkpt lon="4.437897205352783" lat="50.89920313085264"/>
+      <trkpt lon="4.440193176269531" lat="50.901733745479625"/>
+      <trkpt lon="4.440579414367676" lat="50.902302099904105"/>
+      <trkpt lon="4.4417595863342285" lat="50.903249341860736"/>
+      <trkpt lon="4.443937540054321" lat="50.90452808793229"/>
+      <trkpt lon="4.443368911743164" lat="50.90464987144066"/>
+      <trkpt lon="4.441781044006348" lat="50.9056308936385"/>
+      <trkpt lon="4.4417544" lat="50.9055842"/>
+      <trkpt lon="4.4434374" lat="50.9076557"/>
+      <trkpt lon="4.4449764" lat="50.9120537"/>
+      <trkpt lon="4.4482794" lat="50.9165761"/>
+      <trkpt lon="4.4462184" lat="50.9180854"/>
+      <trkpt lon="4.4475234" lat="50.9184656"/>
+      <trkpt lon="4.4501334" lat="50.9196911"/>
+      <trkpt lon="4.4509884" lat="50.9207748"/>
+      <trkpt lon="4.4526444" lat="50.9215747"/>
+      <trkpt lon="4.4500404" lat="50.9241797"/>
+      <trkpt lon="4.4489154" lat="50.9247073"/>
+      <trkpt lon="4.4499954" lat="50.9257285"/>
+      <trkpt lon="4.4513994" lat="50.9278898"/>
+      <trkpt lon="4.4439204" lat="50.9277594"/>
+      <trkpt lon="4.4404554" lat="50.9283833"/>
+      <trkpt lon="4.4389344" lat="50.9284117"/>
+      <trkpt lon="4.4367204" lat="50.9282926"/>
+      <trkpt lon="4.4356764" lat="50.928077"/>
+      <trkpt lon="4.4383224" lat="50.9321271"/>
+      <trkpt lon="4.4430924" lat="50.9383718"/>
+      <trkpt lon="4.4469624" lat="50.9414456"/>
+      <trkpt lon="4.4476104" lat="50.9426308"/>
+      <trkpt lon="4.4452974" lat="50.9447913"/>
+      <trkpt lon="4.4429484" lat="50.9462884"/>
+      <trkpt lon="4.4459384" lat="50.9486935"/>
+      <trkpt lon="4.4531294" lat="50.9571809"/>
+      <trkpt lon="4.4541554" lat="50.9591991"/>
+      <trkpt lon="4.4559104" lat="50.9602988"/>
+      <trkpt lon="4.4558744" lat="50.9605482"/>
+      <trkpt lon="4.4593758" lat="50.9626652"/>
+      <trkpt lon="4.4604198" lat="50.9637365"/>
+      <trkpt lon="4.4612838" lat="50.9651536"/>
+      <trkpt lon="4.4612478" lat="50.9667123"/>
+      <trkpt lon="4.4592948" lat="50.9714164"/>
+      <trkpt lon="4.4587278" lat="50.9731676"/>
+      <trkpt lon="4.4588538" lat="50.973553"/>
+      <trkpt lon="4.4595918" lat="50.9748621"/>
+      <trkpt lon="4.4618778" lat="50.9771968"/>
+      <trkpt lon="4.4690778" lat="50.9820529"/>
+      <trkpt lon="4.4706618" lat="50.9834297"/>
+      <trkpt lon="4.4712558" lat="50.9842909"/>
+      <trkpt lon="4.4714898" lat="50.9854127"/>
+      <trkpt lon="4.4710308" lat="50.9865628"/>
+      <trkpt lon="4.4703738" lat="50.9870954"/>
+      <trkpt lon="4.4709544" lat="50.987351"/>
+      <trkpt lon="4.4732314" lat="50.9846712"/>
+      <trkpt lon="4.4729524" lat="50.9835211"/>
+      <trkpt lon="4.4740144" lat="50.9833454"/>
+      <trkpt lon="4.4742664" lat="50.9829318"/>
+      <trkpt lon="4.4767774" lat="50.9816399"/>
+      <trkpt lon="4.4783794" lat="50.9801781"/>
+      <trkpt lon="4.4811334" lat="50.9748798"/>
+      <trkpt lon="4.4788024" lat="50.9741091"/>
+      <trkpt lon="4.4790544" lat="50.9736387"/>
+      <trkpt lon="4.4861284" lat="50.9752991"/>
+      <trkpt lon="4.4949394" lat="50.9776735"/>
+      <trkpt lon="4.4927614" lat="50.9792431"/>
+      <trkpt lon="4.4875954" lat="50.9842236"/>
+      <trkpt lon="4.4970274" lat="50.9877363"/>
+      <trkpt lon="4.5032908" lat="50.9835657"/>
+      <trkpt lon="4.5049828" lat="50.9835091"/>
+      <trkpt lon="4.5063508" lat="50.9828745"/>
+      <trkpt lon="4.5062968" lat="50.9826308"/>
+      <trkpt lon="4.5107788" lat="50.9817583"/>
+      <trkpt lon="4.5122728" lat="50.9818036"/>
+      <trkpt lon="4.5124708" lat="50.9821606"/>
+      <trkpt lon="4.5135778" lat="50.9826875"/>
+      <trkpt lon="4.5143248" lat="50.9828461"/>
+      <trkpt lon="4.5153958" lat="50.9840813"/>
+      <trkpt lon="4.5175198" lat="50.9857187"/>
+      <trkpt lon="4.5175378" lat="50.986053"/>
+      <trkpt lon="4.5202468" lat="50.9860076"/>
+      <trkpt lon="4.5284446" lat="50.9920632"/>
+      <trkpt lon="4.5289913" lat="50.9924938"/>
+      <trkpt lon="4.507225" lat="51.0022704"/>
+      <trkpt lon="4.5086731" lat="51.002763"/>
+      <trkpt lon="4.5099241" lat="51.0035786"/>
+      <trkpt lon="4.5104101" lat="51.0032897"/>
+      <trkpt lon="4.5122551" lat="51.0036749"/>
+      <trkpt lon="4.5125611" lat="51.0040656"/>
+      <trkpt lon="4.5151981" lat="51.0040317"/>
+      <trkpt lon="4.5160261" lat="51.0046716"/>
+      <trkpt lon="4.5167101" lat="51.0042922"/>
+      <trkpt lon="4.5174301" lat="51.0042752"/>
+      <trkpt lon="4.5198061" lat="51.0047849"/>
+      <trkpt lon="4.5206791" lat="51.0048245"/>
+      <trkpt lon="4.5209761" lat="51.005153"/>
+      <trkpt lon="4.5215071" lat="51.0048755"/>
+      <trkpt lon="4.5239191" lat="51.0053399"/>
+      <trkpt lon="4.5254401" lat="51.0054022"/>
+      <trkpt lon="4.5267631" lat="51.0060987"/>
+      <trkpt lon="4.5200311" lat="51.0095078"/>
+      <trkpt lon="4.5214711" lat="51.0108669"/>
+      <trkpt lon="4.5215071" lat="51.0110877"/>
+      <trkpt lon="4.5208861" lat="51.0112916"/>
+      <trkpt lon="4.5212191" lat="51.0116936"/>
+      <trkpt lon="4.5197374" lat="51.0119443"/>
+      <trkpt lon="4.5168754" lat="51.0119103"/>
+      <trkpt lon="4.5158854" lat="51.0120406"/>
+      <trkpt lon="4.5149314" lat="51.0123633"/>
+      <trkpt lon="4.5143194" lat="51.0140733"/>
+      <trkpt lon="4.5139234" lat="51.0143734"/>
+      <trkpt lon="4.5117274" lat="51.0145206"/>
+      <trkpt lon="4.5092344" lat="51.0160607"/>
+      <trkpt lon="4.5075964" lat="51.0177196"/>
+      <trkpt lon="4.5070564" lat="51.0179008"/>
+      <trkpt lon="4.5040414" lat="51.0181273"/>
+      <trkpt lon="4.5028714" lat="51.0186425"/>
+      <trkpt lon="4.5018994" lat="51.0204768"/>
+      <trkpt lon="4.5014494" lat="51.0208731"/>
+      <trkpt lon="4.5005584" lat="51.0210939"/>
+      <trkpt lon="4.4990914" lat="51.0210656"/>
+      <trkpt lon="4.4984884" lat="51.0212581"/>
+      <trkpt lon="4.4979754" lat="51.0219034"/>
+      <trkpt lon="4.4976154" lat="51.0235452"/>
+      <trkpt lon="4.4978247" lat="51.0236167"/>
+      <trkpt lon="4.4969877" lat="51.0244093"/>
+      <trkpt lon="4.4955207" lat="51.0252414"/>
+      <trkpt lon="4.4940807" lat="51.0272906"/>
+      <trkpt lon="4.4910207" lat="51.0288472"/>
+      <trkpt lon="4.4910117" lat="51.0302566"/>
+      <trkpt lon="4.4895627" lat="51.0295151"/>
+      <trkpt lon="4.4897697" lat="51.0292547"/>
+      <trkpt lon="4.4892387" lat="51.0289717"/>
+      <trkpt lon="4.4849907" lat="51.0289151"/>
+      <trkpt lon="4.4831277" lat="51.029934"/>
+      <trkpt lon="4.4827767" lat="51.0304434"/>
+      <trkpt lon="4.4822097" lat="51.0306924"/>
+      <trkpt lon="4.4800137" lat="51.0308283"/>
+      <trkpt lon="4.4798877" lat="51.0306132"/>
+      <trkpt lon="4.4793027" lat="51.0307434"/>
+      <trkpt lon="4.4784837" lat="51.031666"/>
+      <trkpt lon="4.4760537" lat="51.031066"/>
+      <trkpt lon="4.4749827" lat="51.0306528"/>
+      <trkpt lon="4.4735427" lat="51.0320509"/>
+      <trkpt lon="4.4729847" lat="51.0324527"/>
+      <trkpt lon="4.472733736038208" lat="51.0317193396075"/>
+    </trkseg>
+  </trk>
+  <rte>
+    <name>Bloom-Mechelen-Het-Anker.json</name>
+    <rtept lon="4.36631441116333" lat="50.85477319507262">
+      <name>Hotel Bloom</name>
+    </rtept>
+    <rtept lon="4.4417544" lat="50.9055842">
+      <type>fietsknooppunt</type>
+      <sym>Flag, Green</sym>
+      <name>91</name>
+    </rtept>
+    <rtept lon="4.4526444" lat="50.9215747">
+      <type>fietsknooppunt</type>
+      <sym>Circle, Red</sym>
+      <name>47</name>
+    </rtept>
+    <rtept lon="4.4429484" lat="50.9462884">
+      <type>fietsknooppunt</type>
+      <sym>Circle, Red</sym>
+      <name>13</name>
+    </rtept>
+    <rtept lon="4.4558744" lat="50.9605482">
+      <type>fietsknooppunt</type>
+      <sym>Circle, Red</sym>
+      <name>18</name>
+    </rtept>
+    <rtept lon="4.4703738" lat="50.9870954">
+      <type>fietsknooppunt</type>
+      <sym>Circle, Red</sym>
+      <name>75</name>
+    </rtept>
+    <rtept lon="4.4970274" lat="50.9877363">
+      <type>fietsknooppunt</type>
+      <sym>Circle, Red</sym>
+      <name>62</name>
+    </rtept>
+    <rtept lon="4.5202468" lat="50.9860076">
+      <type>fietsknooppunt</type>
+      <sym>Circle, Red</sym>
+      <name>61</name>
+    </rtept>
+    <rtept lon="4.5289913" lat="50.9924938">
+      <type>fietsknooppunt</type>
+      <sym>Circle, Red</sym>
+      <name>54</name>
+    </rtept>
+    <rtept lon="4.507225" lat="51.0022704">
+      <type>fietsknooppunt</type>
+      <sym>Circle, Red</sym>
+      <name>58</name>
+    </rtept>
+    <rtept lon="4.5212191" lat="51.0116936">
+      <type>fietsknooppunt</type>
+      <sym>Circle, Red</sym>
+      <name>64</name>
+    </rtept>
+    <rtept lon="4.4976154" lat="51.0235452">
+      <type>fietsknooppunt</type>
+      <sym>Circle, Red</sym>
+      <name>57</name>
+    </rtept>
+    <rtept lon="4.490715265274048" lat="51.030093221813836">
+      <gpx>wpt</gpx>
+      <name>Mechelen Train Station</name>
+    </rtept>
+    <rtept lon="4.472733736038208" lat="51.0317193396075">
+      <name>Het Anker</name>
+      <desc>Guido Gezellelaan 49, Mechelen</desc>
+    </rtept>
+  </rte>
+  <wpt lon="4.36631441116333" lat="50.85477319507262">
+    <name>Hotel Bloom</name>
+  </wpt>
+  <wpt lon="4.4417544" lat="50.9055842">
+    <type>fietsknooppunt</type>
+    <sym>Flag, Green</sym>
+    <name>91</name>
+  </wpt>
+  <wpt lon="4.4526444" lat="50.9215747">
+    <type>fietsknooppunt</type>
+    <sym>Circle, Red</sym>
+    <name>47</name>
+  </wpt>
+  <wpt lon="4.4429484" lat="50.9462884">
+    <type>fietsknooppunt</type>
+    <sym>Circle, Red</sym>
+    <name>13</name>
+  </wpt>
+  <wpt lon="4.4558744" lat="50.9605482">
+    <type>fietsknooppunt</type>
+    <sym>Circle, Red</sym>
+    <name>18</name>
+  </wpt>
+  <wpt lon="4.4703738" lat="50.9870954">
+    <type>fietsknooppunt</type>
+    <sym>Circle, Red</sym>
+    <name>75</name>
+  </wpt>
+  <wpt lon="4.4970274" lat="50.9877363">
+    <type>fietsknooppunt</type>
+    <sym>Circle, Red</sym>
+    <name>62</name>
+  </wpt>
+  <wpt lon="4.5202468" lat="50.9860076">
+    <type>fietsknooppunt</type>
+    <sym>Circle, Red</sym>
+    <name>61</name>
+  </wpt>
+  <wpt lon="4.5289913" lat="50.9924938">
+    <type>fietsknooppunt</type>
+    <sym>Circle, Red</sym>
+    <name>54</name>
+  </wpt>
+  <wpt lon="4.507225" lat="51.0022704">
+    <type>fietsknooppunt</type>
+    <sym>Circle, Red</sym>
+    <name>58</name>
+  </wpt>
+  <wpt lon="4.5212191" lat="51.0116936">
+    <type>fietsknooppunt</type>
+    <sym>Circle, Red</sym>
+    <name>64</name>
+  </wpt>
+  <wpt lon="4.4976154" lat="51.0235452">
+    <type>fietsknooppunt</type>
+    <sym>Circle, Red</sym>
+    <name>57</name>
+  </wpt>
+  <wpt lon="4.490715265274048" lat="51.030093221813836">
+    <gpx>wpt</gpx>
+    <name>Mechelen Train Station</name>
+  </wpt>
+  <wpt lon="4.472733736038208" lat="51.0317193396075">
+    <name>Het Anker</name>
+    <desc>Guido Gezellelaan 49, Mechelen</desc>
+  </wpt>
+</gpx>
+

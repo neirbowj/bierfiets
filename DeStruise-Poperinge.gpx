@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<gpx xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="https://github.com/neirbowj/bierfiets">
+  <trk>
+    <type>fietsknooppuntentraject</type>
+    <trkseg>
+      <trkpt lon="2.737569808959961" lat="50.93191458806728"/>
+      <trkpt lon="2.7350556" lat="50.9309257"/>
+      <trkpt lon="2.7334986" lat="50.9299784"/>
+      <trkpt lon="2.7328056" lat="50.9297515"/>
+      <trkpt lon="2.7314196" lat="50.9283334"/>
+      <trkpt lon="2.7314196" lat="50.927925"/>
+      <trkpt lon="2.7302766" lat="50.9272556"/>
+      <trkpt lon="2.7306721" lat="50.926613"/>
+      <trkpt lon="2.7315271" lat="50.9258131"/>
+      <trkpt lon="2.7341101" lat="50.9243041"/>
+      <trkpt lon="2.7349471" lat="50.9240261"/>
+      <trkpt lon="2.7364951" lat="50.9239694"/>
+      <trkpt lon="2.7371611" lat="50.9232602"/>
+      <trkpt lon="2.7378631" lat="50.9230617"/>
+      <trkpt lon="2.7388891" lat="50.9222334"/>
+      <trkpt lon="2.7395821" lat="50.9213143"/>
+      <trkpt lon="2.7405091" lat="50.9185909"/>
+      <trkpt lon="2.7444151" lat="50.9151184"/>
+      <trkpt lon="2.7444171" lat="50.91512"/>
+      <trkpt lon="2.7425091" lat="50.9139681"/>
+      <trkpt lon="2.7384681" lat="50.9128616"/>
+      <trkpt lon="2.7389001" lat="50.9124871"/>
+      <trkpt lon="2.7374421" lat="50.9116699"/>
+      <trkpt lon="2.7368841" lat="50.9111592"/>
+      <trkpt lon="2.7355611" lat="50.9108414"/>
+      <trkpt lon="2.7332031" lat="50.9090822"/>
+      <trkpt lon="2.7309081" lat="50.9076464"/>
+      <trkpt lon="2.7303501" lat="50.9070448"/>
+      <trkpt lon="2.7271101" lat="50.904576"/>
+      <trkpt lon="2.7273981" lat="50.9039234"/>
+      <trkpt lon="2.7303501" lat="50.9017495"/>
+      <trkpt lon="2.7262371" lat="50.8984745"/>
+      <trkpt lon="2.7237351" lat="50.896868"/>
+      <trkpt lon="2.7214311" lat="50.8956646"/>
+      <trkpt lon="2.7168051" lat="50.892497"/>
+      <trkpt lon="2.7128991" lat="50.8931101"/>
+      <trkpt lon="2.7113986" lat="50.8931931"/>
+      <trkpt lon="2.7105346" lat="50.8929206"/>
+      <trkpt lon="2.7092078" lat="50.8916933"/>
+      <trkpt lon="2.7099278" lat="50.8897687"/>
+      <trkpt lon="2.7115748" lat="50.8869413"/>
+      <trkpt lon="2.7127268" lat="50.8860612"/>
+      <trkpt lon="2.7135998" lat="50.8850392"/>
+      <trkpt lon="2.7147788" lat="50.8830122"/>
+      <trkpt lon="2.7162998" lat="50.8815813"/>
+      <trkpt lon="2.7207278" lat="50.8780095"/>
+      <trkpt lon="2.7207278" lat="50.8768907"/>
+      <trkpt lon="2.7211958" lat="50.8763796"/>
+      <trkpt lon="2.7200348" lat="50.8747611"/>
+      <trkpt lon="2.7201068" lat="50.8742045"/>
+      <trkpt lon="2.7197378" lat="50.8730516"/>
+      <trkpt lon="2.7205028" lat="50.8689509"/>
+      <trkpt lon="2.7213128" lat="50.8678831"/>
+      <trkpt lon="2.7223118" lat="50.8653441"/>
+      <trkpt lon="2.7227348" lat="50.8626175"/>
+      <trkpt lon="2.7222578" lat="50.8607371"/>
+      <trkpt lon="2.7227258" lat="50.8599361"/>
+      <trkpt lon="2.7229688" lat="50.8602997"/>
+      <trkpt lon="2.7258668" lat="50.8591237"/>
+      <trkpt lon="2.7268658" lat="50.8569649"/>
+      <trkpt lon="2.7264698" lat="50.8558116"/>
+    </trkseg>
+  </trk>
+  <rte>
+    <name>DeStruise-Poperinge.json</name>
+    <rtept lon="2.737569808959961" lat="50.93191458806728">
+      <name>De Struise</name>
+      <desc>Kasteelstraat 50</desc>
+    </rtept>
+    <rtept lon="2.7306721" lat="50.926613">
+      <type>fietsknooppunt</type>
+      <sym>Circle, Red</sym>
+    </rtept>
+    <rtept lon="2.7444171" lat="50.91512">
+      <type>fietsknooppunt</type>
+      <sym>Circle, Red</sym>
+    </rtept>
+    <rtept lon="2.7113986" lat="50.8931931">
+      <type>fietsknooppunt</type>
+      <sym>Circle, Red</sym>
+    </rtept>
+    <rtept lon="2.7092078" lat="50.8916933">
+      <type>fietsknooppunt</type>
+      <sym>Circle, Red</sym>
+    </rtept>
+    <rtept lon="2.7264698" lat="50.8558116">
+      <type>fietsknooppunt</type>
+      <sym>Flag, Green</sym>
+    </rtept>
+  </rte>
+  <wpt lon="2.737569808959961" lat="50.93191458806728">
+    <name>De Struise</name>
+    <desc>Kasteelstraat 50</desc>
+  </wpt>
+  <wpt lon="2.7306721" lat="50.926613">
+    <type>fietsknooppunt</type>
+    <sym>Circle, Red</sym>
+  </wpt>
+  <wpt lon="2.7444171" lat="50.91512">
+    <type>fietsknooppunt</type>
+    <sym>Circle, Red</sym>
+  </wpt>
+  <wpt lon="2.7113986" lat="50.8931931">
+    <type>fietsknooppunt</type>
+    <sym>Circle, Red</sym>
+  </wpt>
+  <wpt lon="2.7092078" lat="50.8916933">
+    <type>fietsknooppunt</type>
+    <sym>Circle, Red</sym>
+  </wpt>
+  <wpt lon="2.7264698" lat="50.8558116">
+    <type>fietsknooppunt</type>
+    <sym>Flag, Green</sym>
+  </wpt>
+</gpx>
+

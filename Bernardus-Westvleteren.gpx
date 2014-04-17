@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<gpx xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" creator="https://github.com/neirbowj/bierfiets" version="1.1">
+  <trk>
+    <name>Bernardus-Westvleteren</name>
+    <type>fietsknooppuntentraject</type>
+    <trkseg>
+      <trkpt lon="2.638435363769531" lat="50.84148947533703"/>
+      <trkpt lon="2.6276636123657227" lat="50.84835873487246"/>
+      <trkpt lon="2.622063159942627" lat="50.85580945064428"/>
+      <trkpt lon="2.620368003845215" lat="50.85633772893727"/>
+      <trkpt lon="2.6206888" lat="50.8588561"/>
+      <trkpt lon="2.6205718" lat="50.8612194"/>
+      <trkpt lon="2.6207968" lat="50.8617364"/>
+      <trkpt lon="2.6247177" lat="50.8623392"/>
+      <trkpt lon="2.6252397" lat="50.862629"/>
+      <trkpt lon="2.6273187" lat="50.8632538"/>
+      <trkpt lon="2.6290017" lat="50.8642763"/>
+      <trkpt lon="2.6307477" lat="50.8650148"/>
+      <trkpt lon="2.6337357" lat="50.865543"/>
+      <trkpt lon="2.6349417" lat="50.8660997"/>
+      <trkpt lon="2.6389197" lat="50.8673153"/>
+      <trkpt lon="2.6474247" lat="50.8690704"/>
+      <trkpt lon="2.6486397" lat="50.8678662"/>
+      <trkpt lon="2.6489457" lat="50.8680309"/>
+      <trkpt lon="2.6510967" lat="50.8680537"/>
+      <trkpt lon="2.6522577" lat="50.868474"/>
+      <trkpt lon="2.6526605" lat="50.8687167"/>
+      <trkpt lon="2.6561615" lat="50.8693358"/>
+      <trkpt lon="2.6628305" lat="50.8694096"/>
+      <trkpt lon="2.6639825" lat="50.8696425"/>
+      <trkpt lon="2.6650355" lat="50.8699549"/>
+      <trkpt lon="2.6660795" lat="50.8706648"/>
+      <trkpt lon="2.6690675" lat="50.8715963"/>
+      <trkpt lon="2.6769425" lat="50.8755775"/>
+      <trkpt lon="2.6767836" lat="50.8756107"/>
+      <trkpt lon="2.6793936" lat="50.8774109"/>
+      <trkpt lon="2.6832906" lat="50.8777744"/>
+      <trkpt lon="2.6848026" lat="50.8790975"/>
+      <trkpt lon="2.6883846" lat="50.880767"/>
+      <trkpt lon="2.6903196" lat="50.8821468"/>
+      <trkpt lon="2.6908686" lat="50.8831348"/>
+      <trkpt lon="2.6924436" lat="50.8836402"/>
+      <trkpt lon="2.6934786" lat="50.8844408"/>
+      <trkpt lon="2.6971416" lat="50.8850824"/>
+      <trkpt lon="2.7007776" lat="50.8863202"/>
+      <trkpt lon="2.7004986" lat="50.8873365"/>
+      <trkpt lon="2.7034507" lat="50.8887711"/>
+      <trkpt lon="2.7077797" lat="50.8912861"/>
+      <trkpt lon="2.7092197" lat="50.8916949"/>
+      <trkpt lon="2.7105346" lat="50.8929206"/>
+      <trkpt lon="2.7113986" lat="50.8931931"/>
+      <trkpt lon="2.7128991" lat="50.8931101"/>
+      <trkpt lon="2.7168051" lat="50.892497"/>
+      <trkpt lon="2.7214311" lat="50.8956646"/>
+    </trkseg>
+  </trk>
+  <rte>
+    <name>Bernardus-Westvleteren.json</name>
+    <rtept lon="2.638435363769531" lat="50.84148947533703"/>
+    <rtept lon="2.620368003845215" lat="50.85633772893727"/>
+    <rtept lon="2.6206888" lat="50.8588561">
+      <sym>Flag, Green</sym>
+      <name>77</name>
+      <type>fietsknooppunt</type>
+    </rtept>
+    <rtept lon="2.6207968" lat="50.8617364">
+      <sym>Circle, Red</sym>
+      <name>76</name>
+      <type>fietsknooppunt</type>
+    </rtept>
+    <rtept lon="2.6522577" lat="50.868474">
+      <sym>Circle, Red</sym>
+      <name>78</name>
+      <type>fietsknooppunt</type>
+    </rtept>
+    <rtept lon="2.6769425" lat="50.8755775">
+      <sym>Circle, Red</sym>
+      <name>79</name>
+      <type>fietsknooppunt</type>
+    </rtept>
+    <rtept lon="2.7004986" lat="50.8873365">
+      <sym>Circle, Red</sym>
+      <name>66</name>
+      <type>fietsknooppunt</type>
+    </rtept>
+    <rtept lon="2.7092197" lat="50.8916949">
+      <sym>Circle, Red</sym>
+      <name>67</name>
+      <type>fietsknooppunt</type>
+    </rtept>
+    <rtept lon="2.7113986" lat="50.8931931">
+      <sym>Circle, Red</sym>
+      <name>68</name>
+      <type>fietsknooppunt</type>
+    </rtept>
+    <rtept lon="2.7214014530181885" lat="50.89563703134186"/>
+  </rte>
+  <wpt lon="2.638435363769531" lat="50.84148947533703"/>
+  <wpt lon="2.620368003845215" lat="50.85633772893727"/>
+  <wpt lon="2.6206888" lat="50.8588561">
+    <sym>Flag, Green</sym>
+    <name>77</name>
+    <type>fietsknooppunt</type>
+  </wpt>
+  <wpt lon="2.6207968" lat="50.8617364">
+    <sym>Circle, Red</sym>
+    <name>76</name>
+    <type>fietsknooppunt</type>
+  </wpt>
+  <wpt lon="2.6522577" lat="50.868474">
+    <sym>Circle, Red</sym>
+    <name>78</name>
+    <type>fietsknooppunt</type>
+  </wpt>
+  <wpt lon="2.6769425" lat="50.8755775">
+    <sym>Circle, Red</sym>
+    <name>79</name>
+    <type>fietsknooppunt</type>
+  </wpt>
+  <wpt lon="2.7004986" lat="50.8873365">
+    <sym>Circle, Red</sym>
+    <name>66</name>
+    <type>fietsknooppunt</type>
+  </wpt>
+  <wpt lon="2.7092197" lat="50.8916949">
+    <sym>Circle, Red</sym>
+    <name>67</name>
+    <type>fietsknooppunt</type>
+  </wpt>
+  <wpt lon="2.7113986" lat="50.8931931">
+    <sym>Circle, Red</sym>
+    <name>68</name>
+    <type>fietsknooppunt</type>
+  </wpt>
+  <wpt lon="2.7214014530181885" lat="50.89563703134186"/>
+</gpx>
+
