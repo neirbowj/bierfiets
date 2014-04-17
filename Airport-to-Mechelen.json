@@ -1,8 +1,6 @@
 {
-    "type": "FeatureCollection",
     "features": [
         {
-            "type": "Feature",
             "geometry": null,
             "id": "metadata",
             "properties": {
@@ -10,204 +8,203 @@
                     "link": "http://www.fietsnet.be",
                     "name": "fietsnet"
                 }
-            }
+            },
+            "type": "Feature"
         },
         {
-            "type": "Feature",
             "geometry": {
-                "type": "Point",
                 "coordinates": [
                     4.4417544,
                     50.9055842
-                ]
+                ],
+                "type": "Point"
             },
             "id": null,
             "properties": {
-                "type": "fietsknooppunt",
+                "name": "91",
                 "sym": "Flag, Green",
-                "name": "91"
-            }
+                "type": "fietsknooppunt"
+            },
+            "type": "Feature"
         },
         {
-            "type": "Feature",
             "geometry": {
-                "type": "Point",
                 "coordinates": [
                     4.4526444,
                     50.9215747
-                ]
+                ],
+                "type": "Point"
             },
             "id": null,
             "properties": {
-                "type": "fietsknooppunt",
+                "name": "47",
                 "sym": "Circle, Red",
-                "name": "47"
-            }
+                "type": "fietsknooppunt"
+            },
+            "type": "Feature"
         },
         {
-            "type": "Feature",
             "geometry": {
-                "type": "Point",
                 "coordinates": [
                     4.4429484,
                     50.9462884
-                ]
+                ],
+                "type": "Point"
             },
             "id": null,
             "properties": {
-                "type": "fietsknooppunt",
+                "name": "13",
                 "sym": "Circle, Red",
-                "name": "13"
-            }
+                "type": "fietsknooppunt"
+            },
+            "type": "Feature"
         },
         {
-            "type": "Feature",
             "geometry": {
-                "type": "Point",
                 "coordinates": [
                     4.4558744,
                     50.9605482
-                ]
+                ],
+                "type": "Point"
             },
             "id": null,
             "properties": {
-                "type": "fietsknooppunt",
+                "name": "18",
                 "sym": "Circle, Red",
-                "name": "18"
-            }
+                "type": "fietsknooppunt"
+            },
+            "type": "Feature"
         },
         {
-            "type": "Feature",
             "geometry": {
-                "type": "Point",
                 "coordinates": [
                     4.4703738,
                     50.9870954
-                ]
+                ],
+                "type": "Point"
             },
             "id": null,
             "properties": {
-                "type": "fietsknooppunt",
+                "name": "75",
                 "sym": "Circle, Red",
-                "name": "75"
-            }
+                "type": "fietsknooppunt"
+            },
+            "type": "Feature"
         },
         {
-            "type": "Feature",
             "geometry": {
-                "type": "Point",
                 "coordinates": [
                     4.4970274,
                     50.9877363
-                ]
+                ],
+                "type": "Point"
             },
             "id": null,
             "properties": {
-                "type": "fietsknooppunt",
+                "name": "62",
                 "sym": "Circle, Red",
-                "name": "62"
-            }
+                "type": "fietsknooppunt"
+            },
+            "type": "Feature"
         },
         {
-            "type": "Feature",
             "geometry": {
-                "type": "Point",
                 "coordinates": [
                     4.5202468,
                     50.9860076
-                ]
+                ],
+                "type": "Point"
             },
             "id": null,
             "properties": {
-                "type": "fietsknooppunt",
+                "name": "61",
                 "sym": "Circle, Red",
-                "name": "61"
-            }
+                "type": "fietsknooppunt"
+            },
+            "type": "Feature"
         },
         {
-            "type": "Feature",
             "geometry": {
-                "type": "Point",
                 "coordinates": [
                     4.5289913,
                     50.9924938
-                ]
+                ],
+                "type": "Point"
             },
             "id": null,
             "properties": {
-                "type": "fietsknooppunt",
+                "name": "54",
                 "sym": "Circle, Red",
-                "name": "54"
-            }
+                "type": "fietsknooppunt"
+            },
+            "type": "Feature"
         },
         {
-            "type": "Feature",
             "geometry": {
-                "type": "Point",
                 "coordinates": [
                     4.507225,
                     51.0022704
-                ]
+                ],
+                "type": "Point"
             },
             "id": null,
             "properties": {
-                "type": "fietsknooppunt",
+                "name": "58",
                 "sym": "Circle, Red",
-                "name": "58"
-            }
+                "type": "fietsknooppunt"
+            },
+            "type": "Feature"
         },
         {
-            "type": "Feature",
             "geometry": {
-                "type": "Point",
                 "coordinates": [
                     4.5212191,
                     51.0116936
-                ]
+                ],
+                "type": "Point"
             },
             "id": null,
             "properties": {
-                "type": "fietsknooppunt",
+                "name": "64",
                 "sym": "Circle, Red",
-                "name": "64"
-            }
+                "type": "fietsknooppunt"
+            },
+            "type": "Feature"
         },
         {
-            "type": "Feature",
             "geometry": {
-                "type": "Point",
                 "coordinates": [
                     4.4976154,
                     51.0235452
-                ]
+                ],
+                "type": "Point"
             },
             "id": null,
             "properties": {
-                "type": "fietsknooppunt",
+                "name": "57",
                 "sym": "Circle, Red",
-                "name": "57"
-            }
+                "type": "fietsknooppunt"
+            },
+            "type": "Feature"
         },
         {
-            "type": "Feature",
             "geometry": {
-                "type": "Point",
                 "coordinates": [
                     4.4543637,
                     51.0405457
-                ]
+                ],
+                "type": "Point"
             },
             "id": null,
             "properties": {
-                "type": "fietsknooppunt",
+                "name": "96",
                 "sym": "Circle, Red",
-                "name": "96"
-            }
+                "type": "fietsknooppunt"
+            },
+            "type": "Feature"
         },
         {
-            "type": "Feature",
             "geometry": {
-                "type": "MultiLineString",
                 "coordinates": [
                     [
                         [
@@ -791,13 +788,16 @@
                             51.0405457
                         ]
                     ]
-                ]
+                ],
+                "type": "MultiLineString"
             },
             "id": null,
             "properties": {
-                "type": "fietsknooppuntentraject",
-                "name": "Airport-to-Mechelen"
-            }
+                "name": "Airport-to-Mechelen",
+                "type": "fietsknooppuntentraject"
+            },
+            "type": "Feature"
         }
-    ]
+    ],
+    "type": "FeatureCollection"
 }

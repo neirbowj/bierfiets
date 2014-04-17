@@ -1,16 +1,15 @@
 {
-    "type": "FeatureCollection",
     "features": [
         {
             "geometry": null,
+            "id": "metadata",
             "properties": {
                 "author": {
                     "link": "http://www.fietsnet.be",
                     "name": "fietsnet"
                 }
             },
-            "type": "Feature",
-            "id": "metadata"
+            "type": "Feature"
         },
         {
             "geometry": {
@@ -320,12 +319,13 @@
                 ],
                 "type": "MultiLineString"
             },
+            "id": null,
             "properties": {
-                "type": "fietsknooppuntentraject",
-                "name": "Beersel-Lembeek-part"
+                "name": "Beersel-Lembeek-part",
+                "type": "fietsknooppuntentraject"
             },
-            "type": "Feature",
-            "id": null
+            "type": "Feature"
         }
-    ]
+    ],
+    "type": "FeatureCollection"
 }

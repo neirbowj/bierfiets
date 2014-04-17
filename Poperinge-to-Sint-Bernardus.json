@@ -1,8 +1,8 @@
 {
     "features": [
         {
-            "id": "metadata",
             "geometry": null,
+            "id": "metadata",
             "properties": {
                 "author": {
                     "link": "http://www.fietsnet.be",
@@ -12,7 +12,6 @@
             "type": "Feature"
         },
         {
-            "id": null,
             "geometry": {
                 "coordinates": [
                     2.7249346,
@@ -20,15 +19,15 @@
                 ],
                 "type": "Point"
             },
+            "id": null,
             "properties": {
-                "type": "fietsknooppunt",
                 "name": "92",
-                "sym": "Flag, Green"
+                "sym": "Flag, Green",
+                "type": "fietsknooppunt"
             },
             "type": "Feature"
         },
         {
-            "id": null,
             "geometry": {
                 "coordinates": [
                     2.6712316,
@@ -36,15 +35,15 @@
                 ],
                 "type": "Point"
             },
+            "id": null,
             "properties": {
-                "type": "fietsknooppunt",
                 "name": "86",
-                "sym": "Circle, Red"
+                "sym": "Circle, Red",
+                "type": "fietsknooppunt"
             },
             "type": "Feature"
         },
         {
-            "id": null,
             "geometry": {
                 "coordinates": [
                     2.6668836,
@@ -52,15 +51,15 @@
                 ],
                 "type": "Point"
             },
+            "id": null,
             "properties": {
-                "type": "fietsknooppunt",
                 "name": "85",
-                "sym": "Circle, Red"
+                "sym": "Circle, Red",
+                "type": "fietsknooppunt"
             },
             "type": "Feature"
         },
         {
-            "id": null,
             "geometry": {
                 "coordinates": [
                     2.6655864,
@@ -68,15 +67,15 @@
                 ],
                 "type": "Point"
             },
+            "id": null,
             "properties": {
-                "type": "fietsknooppunt",
                 "name": "84",
-                "sym": "Circle, Red"
+                "sym": "Circle, Red",
+                "type": "fietsknooppunt"
             },
             "type": "Feature"
         },
         {
-            "id": null,
             "geometry": {
                 "coordinates": [
                     2.6603582,
@@ -84,15 +83,15 @@
                 ],
                 "type": "Point"
             },
+            "id": null,
             "properties": {
-                "type": "fietsknooppunt",
                 "name": "83",
-                "sym": "Circle, Red"
+                "sym": "Circle, Red",
+                "type": "fietsknooppunt"
             },
             "type": "Feature"
         },
         {
-            "id": null,
             "geometry": {
                 "coordinates": [
                     2.6295304,
@@ -100,15 +99,15 @@
                 ],
                 "type": "Point"
             },
+            "id": null,
             "properties": {
-                "type": "fietsknooppunt",
                 "name": "77",
-                "sym": "Circle, Red"
+                "sym": "Circle, Red",
+                "type": "fietsknooppunt"
             },
             "type": "Feature"
         },
         {
-            "id": null,
             "geometry": {
                 "coordinates": [
                     [
@@ -320,6 +319,7 @@
                 ],
                 "type": "MultiLineString"
             },
+            "id": null,
             "properties": {
                 "name": "Poperinge to Sint Bernardus",
                 "type": "fietsknooppuntentraject"
