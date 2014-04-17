@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
-<gpx xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="https://github.com/neirbowj/bierfiets">
+<gpx xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" creator="https://github.com/neirbowj/bierfiets" version="1.1">
   <trk>
     <type>fietsknooppuntentraject</type>
+    <name>Poperinge-DeStruise</name>
     <trkseg>
       <trkpt lon="2.7264698" lat="50.8558116"/>
       <trkpt lon="2.7268658" lat="50.8569649"/>
@@ -89,8 +90,8 @@
       <sym>Circle, Red</sym>
     </rtept>
     <rtept lon="2.737569808959961" lat="50.93191458806728">
-      <desc>Kasteelstraat 50</desc>
       <name>De Struise</name>
+      <desc>Kasteelstraat 50</desc>
     </rtept>
   </rte>
   <wpt lon="2.7264698" lat="50.8558116">
@@ -114,8 +115,8 @@
     <sym>Circle, Red</sym>
   </wpt>
   <wpt lon="2.737569808959961" lat="50.93191458806728">
-    <desc>Kasteelstraat 50</desc>
     <name>De Struise</name>
+    <desc>Kasteelstraat 50</desc>
   </wpt>
 </gpx>
 

@@ -18,26 +18,26 @@
       <trkpt lon="2.7271628379821777" lat="50.85551821774447"/>
       <trkpt lon="2.7270984649658203" lat="50.855755267916926"/>
     </trkseg>
-    <name>DePlukker-Poperinge.json</name>
+    <name>DePlukker-Poperinge</name>
   </trk>
   <rte>
     <name>DePlukker-Poperinge.json</name>
     <rtept lon="2.7270877361297607" lat="50.85578574570879">
-      <name>Hotel Amfora</name>
       <desc>Grote Markt 36</desc>
+      <name>Hotel Amfora</name>
     </rtept>
     <rtept lon="2.759842872619629" lat="50.868459394102004">
-      <name>De Plukker</name>
       <desc>Elverdingseweg 16, Poperinge</desc>
+      <name>De Plukker</name>
     </rtept>
   </rte>
   <wpt lon="2.7270877361297607" lat="50.85578574570879">
-    <name>Hotel Amfora</name>
     <desc>Grote Markt 36</desc>
+    <name>Hotel Amfora</name>
   </wpt>
   <wpt lon="2.759842872619629" lat="50.868459394102004">
-    <name>De Plukker</name>
     <desc>Elverdingseweg 16, Poperinge</desc>
+    <name>De Plukker</name>
   </wpt>
 </gpx>
 

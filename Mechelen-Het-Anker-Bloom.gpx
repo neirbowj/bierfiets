@@ -190,58 +190,58 @@
       <gpx>wpt</gpx>
     </rtept>
     <rtept lon="4.4976154" lat="51.0235452">
-      <sym>Circle, Red</sym>
       <name>57</name>
+      <sym>Circle, Red</sym>
       <type>fietsknooppunt</type>
     </rtept>
     <rtept lon="4.5212191" lat="51.0116936">
-      <sym>Circle, Red</sym>
       <name>64</name>
+      <sym>Circle, Red</sym>
       <type>fietsknooppunt</type>
     </rtept>
     <rtept lon="4.507225" lat="51.0022704">
-      <sym>Circle, Red</sym>
       <name>58</name>
+      <sym>Circle, Red</sym>
       <type>fietsknooppunt</type>
     </rtept>
     <rtept lon="4.5289913" lat="50.9924938">
-      <sym>Circle, Red</sym>
       <name>54</name>
+      <sym>Circle, Red</sym>
       <type>fietsknooppunt</type>
     </rtept>
     <rtept lon="4.5202468" lat="50.9860076">
-      <sym>Circle, Red</sym>
       <name>61</name>
+      <sym>Circle, Red</sym>
       <type>fietsknooppunt</type>
     </rtept>
     <rtept lon="4.4970274" lat="50.9877363">
-      <sym>Circle, Red</sym>
       <name>62</name>
+      <sym>Circle, Red</sym>
       <type>fietsknooppunt</type>
     </rtept>
     <rtept lon="4.4703738" lat="50.9870954">
-      <sym>Circle, Red</sym>
       <name>75</name>
+      <sym>Circle, Red</sym>
       <type>fietsknooppunt</type>
     </rtept>
     <rtept lon="4.4558744" lat="50.9605482">
-      <sym>Circle, Red</sym>
       <name>18</name>
+      <sym>Circle, Red</sym>
       <type>fietsknooppunt</type>
     </rtept>
     <rtept lon="4.4429484" lat="50.9462884">
-      <sym>Circle, Red</sym>
       <name>13</name>
+      <sym>Circle, Red</sym>
       <type>fietsknooppunt</type>
     </rtept>
     <rtept lon="4.4526444" lat="50.9215747">
-      <sym>Circle, Red</sym>
       <name>47</name>
+      <sym>Circle, Red</sym>
       <type>fietsknooppunt</type>
     </rtept>
     <rtept lon="4.4417544" lat="50.9055842">
-      <sym>Flag, Green</sym>
       <name>91</name>
+      <sym>Flag, Green</sym>
       <type>fietsknooppunt</type>
     </rtept>
     <rtept lon="4.3663036823272705" lat="50.85477319507262">
@@ -257,58 +257,58 @@
     <gpx>wpt</gpx>
   </wpt>
   <wpt lon="4.4976154" lat="51.0235452">
-    <sym>Circle, Red</sym>
     <name>57</name>
+    <sym>Circle, Red</sym>
     <type>fietsknooppunt</type>
   </wpt>
   <wpt lon="4.5212191" lat="51.0116936">
-    <sym>Circle, Red</sym>
     <name>64</name>
+    <sym>Circle, Red</sym>
     <type>fietsknooppunt</type>
   </wpt>
   <wpt lon="4.507225" lat="51.0022704">
-    <sym>Circle, Red</sym>
     <name>58</name>
+    <sym>Circle, Red</sym>
     <type>fietsknooppunt</type>
   </wpt>
   <wpt lon="4.5289913" lat="50.9924938">
-    <sym>Circle, Red</sym>
     <name>54</name>
+    <sym>Circle, Red</sym>
     <type>fietsknooppunt</type>
   </wpt>
   <wpt lon="4.5202468" lat="50.9860076">
-    <sym>Circle, Red</sym>
     <name>61</name>
+    <sym>Circle, Red</sym>
     <type>fietsknooppunt</type>
   </wpt>
   <wpt lon="4.4970274" lat="50.9877363">
-    <sym>Circle, Red</sym>
     <name>62</name>
+    <sym>Circle, Red</sym>
     <type>fietsknooppunt</type>
   </wpt>
   <wpt lon="4.4703738" lat="50.9870954">
-    <sym>Circle, Red</sym>
     <name>75</name>
+    <sym>Circle, Red</sym>
     <type>fietsknooppunt</type>
   </wpt>
   <wpt lon="4.4558744" lat="50.9605482">
-    <sym>Circle, Red</sym>
     <name>18</name>
+    <sym>Circle, Red</sym>
     <type>fietsknooppunt</type>
   </wpt>
   <wpt lon="4.4429484" lat="50.9462884">
-    <sym>Circle, Red</sym>
     <name>13</name>
+    <sym>Circle, Red</sym>
     <type>fietsknooppunt</type>
   </wpt>
   <wpt lon="4.4526444" lat="50.9215747">
-    <sym>Circle, Red</sym>
     <name>47</name>
+    <sym>Circle, Red</sym>
     <type>fietsknooppunt</type>
   </wpt>
   <wpt lon="4.4417544" lat="50.9055842">
-    <sym>Flag, Green</sym>
     <name>91</name>
+    <sym>Flag, Green</sym>
     <type>fietsknooppunt</type>
   </wpt>
   <wpt lon="4.3663036823272705" lat="50.85477319507262">

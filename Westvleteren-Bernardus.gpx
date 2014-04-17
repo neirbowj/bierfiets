@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
-<gpx xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="https://github.com/neirbowj/bierfiets">
+<gpx xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" creator="https://github.com/neirbowj/bierfiets" version="1.1">
   <trk>
     <type>fietsknooppuntentraject</type>
     <name>Westvleteren-Bernardus</name>
@@ -59,38 +59,38 @@
     <rtept lon="2.7214014530181885" lat="50.89563703134186"/>
     <rtept lon="2.7113986" lat="50.8931931">
       <type>fietsknooppunt</type>
-      <sym>Circle, Red</sym>
       <name>68</name>
+      <sym>Circle, Red</sym>
     </rtept>
     <rtept lon="2.7092197" lat="50.8916949">
       <type>fietsknooppunt</type>
-      <sym>Circle, Red</sym>
       <name>67</name>
+      <sym>Circle, Red</sym>
     </rtept>
     <rtept lon="2.7004986" lat="50.8873365">
       <type>fietsknooppunt</type>
-      <sym>Circle, Red</sym>
       <name>66</name>
+      <sym>Circle, Red</sym>
     </rtept>
     <rtept lon="2.6769425" lat="50.8755775">
       <type>fietsknooppunt</type>
-      <sym>Circle, Red</sym>
       <name>79</name>
+      <sym>Circle, Red</sym>
     </rtept>
     <rtept lon="2.6522577" lat="50.868474">
       <type>fietsknooppunt</type>
-      <sym>Circle, Red</sym>
       <name>78</name>
+      <sym>Circle, Red</sym>
     </rtept>
     <rtept lon="2.6207968" lat="50.8617364">
       <type>fietsknooppunt</type>
-      <sym>Circle, Red</sym>
       <name>76</name>
+      <sym>Circle, Red</sym>
     </rtept>
     <rtept lon="2.6206888" lat="50.8588561">
       <type>fietsknooppunt</type>
-      <sym>Flag, Green</sym>
       <name>77</name>
+      <sym>Flag, Green</sym>
     </rtept>
     <rtept lon="2.620368003845215" lat="50.85633772893727"/>
     <rtept lon="2.638435363769531" lat="50.84148947533703"/>
@@ -98,38 +98,38 @@
   <wpt lon="2.7214014530181885" lat="50.89563703134186"/>
   <wpt lon="2.7113986" lat="50.8931931">
     <type>fietsknooppunt</type>
-    <sym>Circle, Red</sym>
     <name>68</name>
+    <sym>Circle, Red</sym>
   </wpt>
   <wpt lon="2.7092197" lat="50.8916949">
     <type>fietsknooppunt</type>
-    <sym>Circle, Red</sym>
     <name>67</name>
+    <sym>Circle, Red</sym>
   </wpt>
   <wpt lon="2.7004986" lat="50.8873365">
     <type>fietsknooppunt</type>
-    <sym>Circle, Red</sym>
     <name>66</name>
+    <sym>Circle, Red</sym>
   </wpt>
   <wpt lon="2.6769425" lat="50.8755775">
     <type>fietsknooppunt</type>
-    <sym>Circle, Red</sym>
     <name>79</name>
+    <sym>Circle, Red</sym>
   </wpt>
   <wpt lon="2.6522577" lat="50.868474">
     <type>fietsknooppunt</type>
-    <sym>Circle, Red</sym>
     <name>78</name>
+    <sym>Circle, Red</sym>
   </wpt>
   <wpt lon="2.6207968" lat="50.8617364">
     <type>fietsknooppunt</type>
-    <sym>Circle, Red</sym>
     <name>76</name>
+    <sym>Circle, Red</sym>
   </wpt>
   <wpt lon="2.6206888" lat="50.8588561">
     <type>fietsknooppunt</type>
-    <sym>Flag, Green</sym>
     <name>77</name>
+    <sym>Flag, Green</sym>
   </wpt>
   <wpt lon="2.620368003845215" lat="50.85633772893727"/>
   <wpt lon="2.638435363769531" lat="50.84148947533703"/>

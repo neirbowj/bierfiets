@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
-<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.topografix.com/GPX/1/1" creator="https://github.com/neirbowj/bierfiets" version="1.1">
+<gpx xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="https://github.com/neirbowj/bierfiets">
   <trk>
     <type>fietsknooppuntentraject</type>
+    <name>Poperinge-DeDolle</name>
     <trkseg>
       <trkpt lat="50.8558116" lon="2.7264698"/>
       <trkpt lat="50.8569649" lon="2.7268658"/>
@@ -216,8 +217,8 @@
     <rtept lat="51.02617276135536" lon="2.9070425033569336"/>
     <rtept lat="51.02816339803718" lon="2.903770208358764">
       <name>De Dolle</name>
-      <desc>Roeselaerestraat 12b, Esen</desc>
       <sym></sym>
+      <desc>Roeselaerestraat 12b, Esen</desc>
     </rtept>
   </rte>
   <wpt lat="50.8558116" lon="2.7264698">
@@ -283,8 +284,8 @@
   <wpt lat="51.02617276135536" lon="2.9070425033569336"/>
   <wpt lat="51.02816339803718" lon="2.903770208358764">
     <name>De Dolle</name>
-    <desc>Roeselaerestraat 12b, Esen</desc>
     <sym></sym>
+    <desc>Roeselaerestraat 12b, Esen</desc>
   </wpt>
 </gpx>
 

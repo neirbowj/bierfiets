@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
-<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="https://github.com/neirbowj/bierfiets">
+<gpx xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="https://github.com/neirbowj/bierfiets">
   <trk>
     <trkseg>
       <trkpt lon="4.366475343704224" lat="50.854739330122925"/>
@@ -78,7 +78,7 @@
       <trkpt lon="4.3075257539749146" lat="50.76664801172464"/>
       <trkpt lon="4.30787980556488" lat="50.76677694131696"/>
     </trkseg>
-    <name>Bloom-3Font-Beersel.json</name>
+    <name>Bloom-3Font-Beersel</name>
   </trk>
   <rte>
     <name>Bloom-3Font-Beersel.json</name>
@@ -86,16 +86,16 @@
       <name>Hotel Bloom</name>
     </rtept>
     <rtept lon="4.30788516998291" lat="50.766780334196184">
-      <desc>Hoogstraat 2, Beersel</desc>
       <name>Drie Fonteinen</name>
+      <desc>Hoogstraat 2, Beersel</desc>
     </rtept>
   </rte>
   <wpt lon="4.366507530212402" lat="50.85475287610578">
     <name>Hotel Bloom</name>
   </wpt>
   <wpt lon="4.30788516998291" lat="50.766780334196184">
-    <desc>Hoogstraat 2, Beersel</desc>
     <name>Drie Fonteinen</name>
+    <desc>Hoogstraat 2, Beersel</desc>
   </wpt>
 </gpx>
 

@@ -1,46 +1,46 @@
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
-<gpx xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="https://github.com/neirbowj/bierfiets">
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="https://github.com/neirbowj/bierfiets">
   <trk>
     <trkseg>
-      <trkpt lon="2.727082371711731" lat="50.855751881494356"/>
-      <trkpt lon="2.727119922637939" lat="50.855528377062285"/>
-      <trkpt lon="2.727232575416565" lat="50.85550805842444"/>
-      <trkpt lon="2.7284234762191772" lat="50.855707857978814"/>
-      <trkpt lon="2.7289491891860957" lat="50.85571124440456"/>
-      <trkpt lon="2.7291208505630493" lat="50.855714630830064"/>
-      <trkpt lon="2.7303171157836914" lat="50.85565706156309"/>
-      <trkpt lon="2.731481194496155" lat="50.8556265836871"/>
-      <trkpt lon="2.7325594425201416" lat="50.85561642439066"/>
-      <trkpt lon="2.733444571495056" lat="50.85567060727936"/>
-      <trkpt lon="2.7345335483551025" lat="50.85576881360467"/>
-      <trkpt lon="2.7393293380737305" lat="50.85668652478668"/>
-      <trkpt lon="2.740359306335449" lat="50.85692356902069"/>
-      <trkpt lon="2.7414321899414062" lat="50.857458607291235"/>
-      <trkpt lon="2.7420544624328613" lat="50.857685488755045"/>
-      <trkpt lon="2.7426552772521973" lat="50.85805797831676"/>
-      <trkpt lon="2.7476173639297485" lat="50.86050279049462"/>
-      <trkpt lon="2.7505302429199214" lat="50.861972325052335"/>
-      <trkpt lon="2.7588558197021484" lat="50.86682078337104"/>
-      <trkpt lon="2.759864330291748" lat="50.86852710405001"/>
+      <trkpt lat="50.855751881494356" lon="2.727082371711731"/>
+      <trkpt lat="50.855528377062285" lon="2.727119922637939"/>
+      <trkpt lat="50.85550805842444" lon="2.727232575416565"/>
+      <trkpt lat="50.855707857978814" lon="2.7284234762191772"/>
+      <trkpt lat="50.85571124440456" lon="2.7289491891860957"/>
+      <trkpt lat="50.855714630830064" lon="2.7291208505630493"/>
+      <trkpt lat="50.85565706156309" lon="2.7303171157836914"/>
+      <trkpt lat="50.8556265836871" lon="2.731481194496155"/>
+      <trkpt lat="50.85561642439066" lon="2.7325594425201416"/>
+      <trkpt lat="50.85567060727936" lon="2.733444571495056"/>
+      <trkpt lat="50.85576881360467" lon="2.7345335483551025"/>
+      <trkpt lat="50.85668652478668" lon="2.7393293380737305"/>
+      <trkpt lat="50.85692356902069" lon="2.740359306335449"/>
+      <trkpt lat="50.857458607291235" lon="2.7414321899414062"/>
+      <trkpt lat="50.857685488755045" lon="2.7420544624328613"/>
+      <trkpt lat="50.85805797831676" lon="2.7426552772521973"/>
+      <trkpt lat="50.86050279049462" lon="2.7476173639297485"/>
+      <trkpt lat="50.861972325052335" lon="2.7505302429199214"/>
+      <trkpt lat="50.86682078337104" lon="2.7588558197021484"/>
+      <trkpt lat="50.86852710405001" lon="2.759864330291748"/>
     </trkseg>
-    <name>Poperinge-DePlukker.json</name>
+    <name>Poperinge-DePlukker</name>
   </trk>
   <rte>
     <name>Poperinge-DePlukker.json</name>
-    <rtept lon="2.7270877361297607" lat="50.85578574570879">
+    <rtept lat="50.85578574570879" lon="2.7270877361297607">
       <name>Hotel Amfora</name>
       <desc>Grote Markt 36</desc>
     </rtept>
-    <rtept lon="2.759842872619629" lat="50.868459394102004">
+    <rtept lat="50.868459394102004" lon="2.759842872619629">
       <name>De Plukker</name>
       <desc>Elverdingseweg 16, Poperinge</desc>
     </rtept>
   </rte>
-  <wpt lon="2.7270877361297607" lat="50.85578574570879">
+  <wpt lat="50.85578574570879" lon="2.7270877361297607">
     <name>Hotel Amfora</name>
     <desc>Grote Markt 36</desc>
   </wpt>
-  <wpt lon="2.759842872619629" lat="50.868459394102004">
+  <wpt lat="50.868459394102004" lon="2.759842872619629">
     <name>De Plukker</name>
     <desc>Elverdingseweg 16, Poperinge</desc>
   </wpt>

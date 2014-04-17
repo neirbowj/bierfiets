@@ -101,13 +101,13 @@
       <trkpt lon="4.365541934967041" lat="50.85322215514945"/>
       <trkpt lon="4.366475343704224" lat="50.854739330122925"/>
     </trkseg>
-    <name>Boon-Lembeek-Bloom.json</name>
+    <name>Boon-Lembeek-Bloom</name>
   </trk>
   <rte>
     <name>Boon-Lembeek-Bloom.json</name>
     <rtept lon="4.220107197761536" lat="50.712445785528054">
-      <desc>Fonteinstraat 65, Lembeek</desc>
       <name>Boon</name>
+      <desc>Fonteinstraat 65, Lembeek</desc>
     </rtept>
     <rtept lon="4.221341013908386" lat="50.71449402201217">
       <name>Lembeek Station</name>
@@ -133,8 +133,8 @@
     </rtept>
   </rte>
   <wpt lon="4.220107197761536" lat="50.712445785528054">
-    <desc>Fonteinstraat 65, Lembeek</desc>
     <name>Boon</name>
+    <desc>Fonteinstraat 65, Lembeek</desc>
   </wpt>
   <wpt lon="4.221341013908386" lat="50.71449402201217">
     <name>Lembeek Station</name>
