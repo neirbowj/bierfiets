@@ -30,6 +30,8 @@ class GeoJSONTypeNotImplementedError(NotImplementedError):
 with open(sys.argv[1], 'r') as f:
     geojson_data = geojson.load(f)
 
+trip_name = sys.argv[1].split('.')[0]
+
 E = ElementMaker(
         nsmap={
             None: 'http://www.topografix.com/GPX/1/1',
@@ -97,7 +99,7 @@ for feature in geojson_data.features:
             )
         tags = tagsfromprops(props, E)
         if 'name' not in props:
-            tags.append(E.name(sys.argv[1]))
+            tags.append(E.name(trip_name))
         tracks.append(
             E.trk(
                 E.trkseg(
