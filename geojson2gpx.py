@@ -18,7 +18,7 @@ def tagsfromprops(props, E):
     """
     tags = []
     for key, val in props.items():
-        tags.append(E(key, val))
+        tags.append(E(key, str(val)))
     return tags
 
 
