@@ -9,7 +9,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Roeselaerestraat 12b, Esen",
+                "desc": "Roeselaerestraat 12b, Esen",
                 "name": "De Dolle",
                 "sym": ""
             },
@@ -18,188 +18,19 @@
         {
             "geometry": {
                 "coordinates": [
-                    2.7264698,
-                    50.8558116
+                    2.9070425033569336,
+                    51.02617276135536
                 ],
                 "type": "Point"
             },
-            "id": null,
-            "properties": {
-                "sym": "Flag, Green",
-                "type": "fietsknooppunt"
-            },
+            "properties": {},
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    2.7092078,
-                    50.8916933
-                ],
-                "type": "Point"
-            },
-            "id": null,
-            "properties": {
-                "sym": "Circle, Red",
-                "type": "fietsknooppunt"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    2.7113986,
-                    50.8931931
-                ],
-                "type": "Point"
-            },
-            "id": null,
-            "properties": {
-                "sym": "Circle, Red",
-                "type": "fietsknooppunt"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    2.7444171,
-                    50.91512
-                ],
-                "type": "Point"
-            },
-            "id": null,
-            "properties": {
-                "sym": "Circle, Red",
-                "type": "fietsknooppunt"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    2.7524268,
-                    50.9184945
-                ],
-                "type": "Point"
-            },
-            "id": null,
-            "properties": {
-                "sym": "Circle, Red",
-                "type": "fietsknooppunt"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    2.7879156,
-                    50.9258855
-                ],
-                "type": "Point"
-            },
-            "id": null,
-            "properties": {
-                "sym": "Circle, Red",
-                "type": "fietsknooppunt"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    2.7835204,
-                    50.9331273
-                ],
-                "type": "Point"
-            },
-            "id": null,
-            "properties": {
-                "sym": "Circle, Red",
-                "type": "fietsknooppunt"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    2.823804,
-                    50.9597622
-                ],
-                "type": "Point"
-            },
-            "id": null,
-            "properties": {
-                "sym": "Circle, Red",
-                "type": "fietsknooppunt"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    2.8376585,
-                    50.9637158
-                ],
-                "type": "Point"
-            },
-            "id": null,
-            "properties": {
-                "sym": "Circle, Red",
-                "type": "fietsknooppunt"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    2.8474234,
-                    50.9688638
-                ],
-                "type": "Point"
-            },
-            "id": null,
-            "properties": {
-                "sym": "Circle, Red",
-                "type": "fietsknooppunt"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    2.8373623,
-                    50.9903476
-                ],
-                "type": "Point"
-            },
-            "id": null,
-            "properties": {
-                "sym": "Circle, Red",
-                "type": "fietsknooppunt"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    2.8565099,
-                    50.9983637
-                ],
-                "type": "Point"
-            },
-            "id": null,
-            "properties": {
-                "sym": "Circle, Red",
-                "type": "fietsknooppunt"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    2.8860014,
-                    51.0119383
+                    2.9009786,
+                    51.0179197
                 ],
                 "type": "Point"
             },
@@ -228,8 +59,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    2.9009786,
-                    51.0179197
+                    2.8860014,
+                    51.0119383
                 ],
                 "type": "Point"
             },
@@ -243,12 +74,181 @@
         {
             "geometry": {
                 "coordinates": [
-                    2.9070425033569336,
-                    51.02617276135536
+                    2.8565099,
+                    50.9983637
                 ],
                 "type": "Point"
             },
-            "properties": {},
+            "id": null,
+            "properties": {
+                "sym": "Circle, Red",
+                "type": "fietsknooppunt"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.8373623,
+                    50.9903476
+                ],
+                "type": "Point"
+            },
+            "id": null,
+            "properties": {
+                "sym": "Circle, Red",
+                "type": "fietsknooppunt"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.8474234,
+                    50.9688638
+                ],
+                "type": "Point"
+            },
+            "id": null,
+            "properties": {
+                "sym": "Circle, Red",
+                "type": "fietsknooppunt"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.8376585,
+                    50.9637158
+                ],
+                "type": "Point"
+            },
+            "id": null,
+            "properties": {
+                "sym": "Circle, Red",
+                "type": "fietsknooppunt"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.823804,
+                    50.9597622
+                ],
+                "type": "Point"
+            },
+            "id": null,
+            "properties": {
+                "sym": "Circle, Red",
+                "type": "fietsknooppunt"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.7835204,
+                    50.9331273
+                ],
+                "type": "Point"
+            },
+            "id": null,
+            "properties": {
+                "sym": "Circle, Red",
+                "type": "fietsknooppunt"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.7879156,
+                    50.9258855
+                ],
+                "type": "Point"
+            },
+            "id": null,
+            "properties": {
+                "sym": "Circle, Red",
+                "type": "fietsknooppunt"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.7524268,
+                    50.9184945
+                ],
+                "type": "Point"
+            },
+            "id": null,
+            "properties": {
+                "sym": "Circle, Red",
+                "type": "fietsknooppunt"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.7444171,
+                    50.91512
+                ],
+                "type": "Point"
+            },
+            "id": null,
+            "properties": {
+                "sym": "Circle, Red",
+                "type": "fietsknooppunt"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.7113986,
+                    50.8931931
+                ],
+                "type": "Point"
+            },
+            "id": null,
+            "properties": {
+                "sym": "Circle, Red",
+                "type": "fietsknooppunt"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.7092078,
+                    50.8916933
+                ],
+                "type": "Point"
+            },
+            "id": null,
+            "properties": {
+                "sym": "Circle, Red",
+                "type": "fietsknooppunt"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.7264698,
+                    50.8558116
+                ],
+                "type": "Point"
+            },
+            "id": null,
+            "properties": {
+                "sym": "Flag, Green",
+                "type": "fietsknooppunt"
+            },
             "type": "Feature"
         },
         {

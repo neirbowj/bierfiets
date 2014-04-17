@@ -245,7 +245,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Roeselaerestraat 12b, Esen",
+                "desc": "Roeselaerestraat 12b, Esen",
                 "name": "De Dolle",
                 "sym": ""
             },

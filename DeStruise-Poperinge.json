@@ -3,38 +3,22 @@
         {
             "geometry": {
                 "coordinates": [
-                    2.7264698,
-                    50.8558116
+                    2.737569808959961,
+                    50.93191458806728
                 ],
                 "type": "Point"
             },
-            "id": null,
             "properties": {
-                "sym": "Flag, Green",
-                "type": "fietsknooppunt"
+                "desc": "Kasteelstraat 50",
+                "name": "De Struise"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    2.7092078,
-                    50.8916933
-                ],
-                "type": "Point"
-            },
-            "id": null,
-            "properties": {
-                "sym": "Circle, Red",
-                "type": "fietsknooppunt"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    2.7113986,
-                    50.8931931
+                    2.7306721,
+                    50.926613
                 ],
                 "type": "Point"
             },
@@ -63,8 +47,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    2.7306721,
-                    50.926613
+                    2.7113986,
+                    50.8931931
                 ],
                 "type": "Point"
             },
@@ -78,14 +62,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    2.737569808959961,
-                    50.93191458806728
+                    2.7092078,
+                    50.8916933
                 ],
                 "type": "Point"
             },
+            "id": null,
             "properties": {
-                "Address": "Kasteelstraat 50",
-                "Name": "De Struise"
+                "sym": "Circle, Red",
+                "type": "fietsknooppunt"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.7264698,
+                    50.8558116
+                ],
+                "type": "Point"
+            },
+            "id": null,
+            "properties": {
+                "sym": "Flag, Green",
+                "type": "fietsknooppunt"
             },
             "type": "Feature"
         },

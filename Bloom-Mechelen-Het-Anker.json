@@ -3,6 +3,19 @@
         {
             "geometry": {
                 "coordinates": [
+                    4.36631441116333,
+                    50.85477319507262
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Hotel Bloom"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     4.4417544,
                     50.9055842
                 ],
@@ -173,6 +186,34 @@
                 "name": 57,
                 "sym": "Circle, Red",
                 "type": "fietsknooppunt"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.490715265274048,
+                    51.030093221813836
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "gpx": "wpt",
+                "name": "Mechelen Train Station"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.472733736038208,
+                    51.0317193396075
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "desc": "Guido Gezellelaan 49, Mechelen",
+                "name": "Het Anker"
             },
             "type": "Feature"
         },
@@ -880,47 +921,6 @@
             "properties": {
                 "name": "Bloom-Mechelen-Het-Anker",
                 "type": "fietsknooppuntentraject"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    4.472733736038208,
-                    51.0317193396075
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "address": "Guido Gezellelaan 49, Mechelen",
-                "name": "Het Anker"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    4.490715265274048,
-                    51.030093221813836
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "gpx": "wpt",
-                "name": "Mechelen Train Station"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    4.36631441116333,
-                    50.85477319507262
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "name": "Hotel Bloom"
             },
             "type": "Feature"
         }

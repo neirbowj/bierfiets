@@ -9,7 +9,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Grote Markt 36",
+                "desc": "Grote Markt 36",
                 "name": "Hotel Amfora"
             },
             "type": "Feature"
@@ -23,7 +23,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Elverdingseweg 16, Poperinge",
+                "desc": "Elverdingseweg 16, Poperinge",
                 "name": "De Plukker"
             },
             "type": "Feature"

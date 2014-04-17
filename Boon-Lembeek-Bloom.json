@@ -3,13 +3,14 @@
         {
             "geometry": {
                 "coordinates": [
-                    4.366464614868164,
-                    50.85476642208465
+                    4.220107197761536,
+                    50.712445785528054
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Hotel Bloom"
+                "desc": "Fonteinstraat 65, Lembeek",
+                "name": "Boon"
             },
             "type": "Feature"
         },
@@ -23,20 +24,6 @@
             },
             "properties": {
                 "name": "Lembeek Station"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    4.220107197761536,
-                    50.712445785528054
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "address": "Fonteinstraat 65, Lembeek",
-                "name": "Boon"
             },
             "type": "Feature"
         },
@@ -93,6 +80,19 @@
             "properties": {
                 "name": 67,
                 "sym": "Flag, Green"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.366464614868164,
+                    50.85476642208465
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Hotel Bloom"
             },
             "type": "Feature"
         },

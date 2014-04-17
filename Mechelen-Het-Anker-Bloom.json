@@ -3,6 +3,20 @@
         {
             "geometry": {
                 "coordinates": [
+                    4.472733736038208,
+                    51.0317193396075
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "desc": "Guido Gezellelaan 49, Mechelen",
+                "name": "Het Anker"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     4.490715265274048,
                     51.030093221813836
                 ],
@@ -11,20 +25,6 @@
             "properties": {
                 "gpx": "wpt",
                 "name": "Mechelen Train Station"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    4.472733736038208,
-                    51.0317193396075
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "address": "Guido Gezellelaan 49, Mechelen",
-                "name": "Het Anker"
             },
             "type": "Feature"
         },
@@ -201,6 +201,19 @@
                 "name": 91,
                 "sym": "Flag, Green",
                 "type": "fietsknooppunt"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.3663036823272705,
+                    50.85477319507262
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Hotel Bloom"
             },
             "type": "Feature"
         },
@@ -908,19 +921,6 @@
             "properties": {
                 "name": "Mechelen-Het-Anker-Bloom",
                 "type": "fietsknooppuntentraject"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    4.3663036823272705,
-                    50.85477319507262
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "name": "Hotel Bloom"
             },
             "type": "Feature"
         }

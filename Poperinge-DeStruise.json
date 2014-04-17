@@ -84,8 +84,8 @@
                 "type": "Point"
             },
             "properties": {
-                "Address": "Kasteelstraat 50",
-                "Name": "De Struise"
+                "desc": "Kasteelstraat 50",
+                "name": "De Struise"
             },
             "type": "Feature"
         },
